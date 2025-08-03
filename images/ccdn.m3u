@@ -166,11 +166,11 @@ http://tv.cloudcdn.me:80/live.ts?channelId=32496&deviceMac=00:1A:79:17:BE:A5&uid
 
 
 #EXTINF:0.1tvg-id="bbcworldnews.za" tvg-name="Af | DSTV: BBC World News" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/12028.jpg?67314" group-title="DSTV | NEWS",Af | BBC News
-http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:B6:5E:45&stream=45331&extension=ts&play_token=5jJe9JgyQd
+http://download.best-ott.me:80/play/live.php?mac=00:1A:79:56:90:E7&stream=717702&extension=ts&play_token=WOEyE3lFMw
 
 
 #EXTINF:0.1tvg-id="bbcworldnews.za" tvg-name="Af | DSTV: BBC World News" tvg-logo="http://vod-logo.net/photos/6fc57894c1daaf83ccdf51047ce06bd1.png" group-title="DSTV | NEWS",Af | BBC World News
-http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:B6:5E:45&stream=20644&extension=ts&play_token=dmOrAah8H4
+http://download.best-ott.me:80/play/live.php?mac=00:1A:79:56:90:E7&stream=162143&extension=ts&play_token=hTQTt0bEql
 
 
 #EXTINF:0.1tvg-id="" tvg-name="IN: Al Jazeera" tvg-logo="http://ujm.from-in.com/imageicon/662e2df3.jpg" group-title="DSTV | NEWS", Af | Al Jazeera
@@ -179,22 +179,23 @@ https://live-hls-web-aje-fa.getaj.net/alternative/AJE/02.m3u8
 
 
 #EXTINF:0.1tvg-id="" tvg-name="IN: Al Jazeera" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9vshNXCSAUbC5oHLxhEVbDhecR4uXr9ohTg&s" group-title="DSTV | NEWS", TRT World
-http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:B6:5E:45&stream=1564154&extension=ts&play_token=CYK104xrVp
+http://download.best-ott.me:80/play/live.php?mac=00:1A:79:56:90:E7&stream=1389001&extension=ts&play_token=5Ve0Zd8pvC
+
 
 
 #EXTINF:0.1tvg-id="" tvg-name="Skynews" tvg-logo="https://static.skyassets.com/contentstack/assets/bltdc2476c7b6b194dd/blt930f08f36cc65323/6311d7787066f57e88f6cde9/Sky-News-Main.jpg?downsize=1200:*&output-format=jpg" group-title="DSTV | NEWS", Sky News
-http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:B6:5E:45&stream=1458564&extension=ts&play_token=yyRCtFh06A
+http://download.best-ott.me:80/play/live.php?mac=00:1A:79:56:90:E7&stream=162155&extension=ts&play_token=FXX6aQeNSx
 
 
 #EXTINF:0.1tvg-id="dunyanews.pk" tvg-name="IN: Al Jazeera" tvg-logo="http://ujm.from-in.com/imageicon/662e2df3.jpg" group-title="DSTV | NEWS", Af | Al Jazeera 1
-http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:B6:5E:45&stream=23624&extension=ts&play_token=riRCtL6yKD
+http://download.best-ott.me:80/play/live.php?mac=00:1A:79:56:90:E7&stream=162148&extension=ts&play_token=ij2p7S5BPK
 
 
 #EXTINF:0.1tvg-id="" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1000px-CNN.svg.png" group-title="DSTV | NEWS", CNN
-http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:B6:5E:45&stream=1829547&extension=ts&play_token=mCq7GtTCU1
+http://download.best-ott.me:80/play/live.php?mac=00:1A:79:56:90:E7&stream=162147&extension=ts&play_token=ij2p7S5BPK
 
 #EXTINF:0.1tvg-id="" tvg-name="Skynews" tvg-logo="https://www.abc.net.au/core-assets/core/abc-core.png?imformat=generic" group-title="DSTV | NEWS", Abc News Mellbourne
-http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:B6:5E:45&stream=1130813&extension=ts&play_token=5b8DcjmKsg
+http://download.best-ott.me:80/play/live.php?mac=00:1A:79:56:90:E7&stream=750644&extension=ts&play_token=g10zZw53LT
 
 
 
@@ -430,6 +431,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=4212&uid=5954&deviceMac=00:1A:79:17:B
 
 #EXTINF:0.1tvg-id="" tvg-name="Sony BBC Ear (4K)" tvg-logo="https://d7lhl2xa7nj3o.cloudfront.net/images/logo.png" group-title="INDIAN | 4K ULTRA HD",Sony BBC Ear (4K)
 http://tv.cloudcdn.me:80/live.ts?channelId=126224&uid=12643&deviceMac=00:1A:79:03:13:DE
+
 
 
 
