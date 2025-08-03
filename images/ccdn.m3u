@@ -15,7 +15,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=132244&deviceMac=00:1A:79:17:BE:A5&ui
 
 
 
-#EXTINF:0.1tvg-id="" tvg-name="MADNI TV" tvg-logo="https://graficsea.com/wp-content/uploads/2021/12/Madni-Tv-Channel.jpg" group-title=" ISLAMIC",MADNI TV
+#EXTINF:0.1tvg-id="" tvg-name="MADNI TV" tvg-logo="http://ujm.from-in.com/imageicon/7b7770d8" group-title=" ISLAMIC",MADNI TV
 http://tv.cloudcdn.me:80/live.ts?channelId=132246&deviceMac=00:1A:79:17:BE:A5&uid=5954
 
 
@@ -54,7 +54,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=406&deviceMac=00:1A:79:17:BE:A5&uid=5
 #EXTINF:0.1tvg-id="samaatv.pk" tvg-name="PK | Samaa News" tvg-logo="https://static-media.streema.com/media/cache/9a/77/9a77625eca43e2f9336fca5525464a0d.png" group-title="PAKISTAN | NEWS",PK | Samaa News
 http://tv.cloudcdn.me:80/live.ts?channelId=449&deviceMac=00:1A:79:17:BE:A5&uid=5954
 
-#EXTINF:0.1tvg-id="humtv.pk" tvg-name="PK | Hum News HD" tvg-logo="http://b1g.fun/logos2/hum_news.jpg" group-title="PAKISTAN | NEWS",PK | Hum News HD
+#EXTINF:0.1tvg-id="humtv.pk" tvg-name="PK | Hum News HD" tvg-logo="http://ujm.from-in.com/imageicon/5495de3.png" group-title="PAKISTAN | NEWS",PK | Hum News HD
 http://tv.cloudcdn.me:80/live.ts?channelId=419&deviceMac=00:1A:79:17:BE:A5&uid=5954
 
 
@@ -79,12 +79,12 @@ http://tv.cloudcdn.me:80/live.ts?channelId=446&deviceMac=00:1A:79:17:BE:A5&uid=5
 
 
 
-#EXTINF:0.1tvg-id="" tvg-name="PK | GNN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1b/GNN_News_logo.png" group-title="PAKISTAN | NEWS",PK | GNN HD
+#EXTINF:0.1tvg-id="" tvg-name="PK | GNN HD" tvg-logo="http://ujm.from-in.com/imageicon/766747a.png" group-title="PAKISTAN | NEWS",PK | GNN HD
 http://tv.cloudcdn.me:80/live.ts?channelId=417&deviceMac=00:1A:79:17:BE:A5&uid=5954
 
 
 
-#EXTINF:0.1tvg-id="" tvg-name="PK | Capital Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/Capital_TV.jpg/200px-Capital_TV.jpg" group-title="PAKISTAN | NEWS",PK | Capital Tv
+#EXTINF:0.1tvg-id="" tvg-name="PK | Capital Tv" tvg-logo="http://ujm.from-in.com/imageicon/10b00b7.png" group-title="PAKISTAN | NEWS",PK | Capital Tv
 http://tv.cloudcdn.me:80/live.ts?channelId=22759&deviceMac=00:1A:79:17:BE:A5&uid=5954
 
 
@@ -99,7 +99,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=376&deviceMac=00:1A:79:17:BE:A5&uid=5
 
 #EXTINF:0.1tvg-id="" tvg-name="PK | 24 News HD" tvg-logo="http://b1g.fun/logos2/24_channel.jpg" group-title="PAKISTAN | NEWS",PK | 24 News HD
 http://tv.cloudcdn.me:80/live.ts?channelId=368&deviceMac=00:1A:79:17:BE:A5&uid=5954
-#EXTINF:0.1tvg-id="" tvg-name="PK | Abbtak News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c3/Abb_Tak_news_logo.png" group-title="PAKISTAN | NEWS",PK | Abbtak News
+
+#EXTINF:0.1tvg-id="" tvg-name="PK | Abbtak News" tvg-logo="http://ujm.from-in.com/panel/imageicon/3c79e70.png" group-title="PAKISTAN | NEWS",PK | Abbtak News
 http://tv.cloudcdn.me:80/live.ts?channelId=378&deviceMac=00:1A:79:17:BE:A5&uid=5954
 
 #EXTINF:0.1tvg-id="humtv.pk" tvg-name="PK | 365 News" tvg-logo="https://mediabites.com.pk/wp-content/uploads/2024/08/365-News.jpeg" group-title="PAKISTAN | NEWS",PK | 365 News
@@ -117,7 +118,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=437&deviceMac=00:1A:79:17:BE:A5&uid=5
 http://tv.cloudcdn.me:80/live.ts?channelId=448&deviceMac=00:1A:79:17:BE:A5&uid=5954
 #EXTINF:0.1tvg-id="" tvg-name="PK | Such TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/SuchTV_Logo_HQ_-.png/800px-SuchTV_Logo_HQ_-.png" group-title="PAKISTAN | NEWS",PK | Such TV
 http://tv.cloudcdn.me:80/live.ts?channelId=22756&deviceMac=00:1A:79:17:BE:A5&uid=5954
-#EXTINF:0.1tvg-id="" tvg-name="PK: CITY 41 NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/95/City_41_Logo.png" group-title="PAKISTAN | NEWS",PK: CITY 41 NEWS
+#EXTINF:0.1tvg-id="" tvg-name="PK: CITY 41 NEWS" tvg-logo="http://ujm.from-in.com/imageicon/c330e0d.png" group-title="PAKISTAN | NEWS",PK: CITY 41 NEWS
 http://tv.cloudcdn.me:80/live.ts?channelId=462&deviceMac=00:1A:79:17:BE:A5&uid=5954
 
 #EXTINF:0.1tvg-id="" tvg-name="PK: C44" tvg-logo="http://b1g.fun/logos2/channel_44.jpg" group-title="PAKISTAN | ENTERTAINMENT",PK: C44
@@ -148,7 +149,7 @@ EXTINF:-1 tvg-id="" tvg-name="PK | AAN TV FHD" tvg-logo="https://upload.wikimedi
 http://tv.cloudcdn.me:80/live.ts?channelId=21790&deviceMac=00:1A:79:17:BE:A5&uid=5954
 #EXTINF:0.1tvg-id="" tvg-name="PK | MUN TV FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Mun-TV.png" group-title="PAKISTAN | ENTERTAINMENT",PK | MUN TV FHD
 http://tv.cloudcdn.me:80/live.ts?channelId=263&deviceMac=00:1A:79:17:BE:A5&uid=5954
-#EXTINF:0.1tvg-id="" tvg-name="PK | ABN NEWS" tvg-logo="https://abnnews.pk/wp-content/uploads/2023/01/Logo-ABN-News-mobile.png" group-title="PAKISTAN | NEWS",PK | ABN NEWS
+#EXTINF:0.1tvg-id="" tvg-name="PK | ABN NEWS" tvg-logo="http://ujm.from-in.com/panel/imageicon/d71bea2.png" group-title="PAKISTAN | NEWS",PK | ABN NEWS
 http://tv.cloudcdn.me:80/live.ts?channelId=115212&deviceMac=00:1A:79:17:BE:A5&uid=5954
 #EXTINF:0.1tvg-id="" tvg-name="PK | TIME NEWS HD" tvg-logo="http://b1g.fun/logos2/TimeNewsHD.jpg" group-title="PAKISTAN | NEWS",PK | TIME NEWS HD
 http://tv.cloudcdn.me:80/live.ts?channelId=266&deviceMac=00:1A:79:17:BE:A5&uid=5954
@@ -173,28 +174,28 @@ http://download.best-ott.me:80/play/live.php?mac=00:1A:79:56:90:E7&stream=717702
 http://download.best-ott.me:80/play/live.php?mac=00:1A:79:56:90:E7&stream=162143&extension=ts&play_token=hTQTt0bEql
 
 
-#EXTINF:0.1tvg-id="" tvg-name="IN: Al Jazeera" tvg-logo="http://ujm.from-in.com/imageicon/662e2df3.jpg" group-title="DSTV | NEWS", Af | Al Jazeera
+#EXTINF:0.1tvg-id="" tvg-name="IN: Al Jazeera" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/aljazeera-uk.png" group-title="DSTV | NEWS", Af | Al Jazeera
 https://live-hls-web-aje-fa.getaj.net/alternative/AJE/02.m3u8
 
 
 
-#EXTINF:0.1tvg-id="" tvg-name="IN: Al Jazeera" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9vshNXCSAUbC5oHLxhEVbDhecR4uXr9ohTg&s" group-title="DSTV | NEWS", TRT World
+#EXTINF:0.1tvg-id="" tvg-name="IN: Al Jazeera" tvg-logo="http://138.199.27.237:8080/TURKIYE/TRTWORLDHDPLUS.png" group-title="DSTV | NEWS", TRT World
 http://download.best-ott.me:80/play/live.php?mac=00:1A:79:56:90:E7&stream=1389001&extension=ts&play_token=5Ve0Zd8pvC
 
 
 
-#EXTINF:0.1tvg-id="" tvg-name="Skynews" tvg-logo="https://static.skyassets.com/contentstack/assets/bltdc2476c7b6b194dd/blt930f08f36cc65323/6311d7787066f57e88f6cde9/Sky-News-Main.jpg?downsize=1200:*&output-format=jpg" group-title="DSTV | NEWS", Sky News
+#EXTINF:0.1tvg-id="" tvg-name="Skynews" tvg-logo="http://138.199.27.237:8080/UK/SKYNEWS.png" group-title="DSTV | NEWS", Sky News
 http://download.best-ott.me:80/play/live.php?mac=00:1A:79:56:90:E7&stream=162155&extension=ts&play_token=FXX6aQeNSx
 
 
-#EXTINF:0.1tvg-id="dunyanews.pk" tvg-name="IN: Al Jazeera" tvg-logo="http://ujm.from-in.com/imageicon/662e2df3.jpg" group-title="DSTV | NEWS", Af | Al Jazeera 1
+#EXTINF:0.1tvg-id="dunyanews.pk" tvg-name="IN: Al Jazeera" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/aljazeera-uk.png" group-title="DSTV | NEWS", Af | Al Jazeera 1
 http://download.best-ott.me:80/play/live.php?mac=00:1A:79:56:90:E7&stream=162148&extension=ts&play_token=ij2p7S5BPK
 
 
-#EXTINF:0.1tvg-id="" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1000px-CNN.svg.png" group-title="DSTV | NEWS", CNN
+#EXTINF:0.1tvg-id="" tvg-name="CNN" tvg-logo="http://138.199.27.237:8080/PORTUGAL/CNN.png" group-title="DSTV | NEWS", CNN
 http://download.best-ott.me:80/play/live.php?mac=00:1A:79:56:90:E7&stream=162147&extension=ts&play_token=ij2p7S5BPK
 
-#EXTINF:0.1tvg-id="" tvg-name="Skynews" tvg-logo="https://www.abc.net.au/core-assets/core/abc-core.png?imformat=generic" group-title="DSTV | NEWS", Abc News Mellbourne
+#EXTINF:0.1tvg-id="" tvg-name="Skynews" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ABC_News_2024.svg/revision/latest/scale-to-width-down/300?cb=20240723183428" group-title="DSTV | NEWS", Abc News Mellbourne
 http://download.best-ott.me:80/play/live.php?mac=00:1A:79:56:90:E7&stream=750644&extension=ts&play_token=g10zZw53LT
 
 
@@ -254,7 +255,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=407&deviceMac=00:1A:79:17:BE:A5&uid=5
 
 #EXTINF:0.1tvg-id="arydigital.pk" tvg-name="PK | ARY DIGITAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="PAKISTAN | ENTERTAINMENT",PK | ARY DIGITAL HD
 http://tv.cloudcdn.me:80/live.ts?channelId=382&deviceMac=00:1A:79:17:BE:A5&uid=5954
-#EXTINF:0.1tvg-id="aryzindagi.pk" tvg-name="PK | ARY ZINDAGI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/ARY_Zindagi.png" group-title="PAKISTAN | ENTERTAINMENT",PK | ARY ZINDAGI
+#EXTINF:0.1tvg-id="aryzindagi.pk" tvg-name="PK | ARY ZINDAGI" tvg-logo="http://ujm.from-in.com/panel/imageicon/e007a0e.png" group-title="PAKISTAN | ENTERTAINMENT",PK | ARY ZINDAGI
 http://tv.cloudcdn.me:80/live.ts?channelId=392&deviceMac=00:1A:79:17:BE:A5&uid=5954
 
 #EXTINF:0.1tvg-id="geotv.pk" tvg-name="PK | GEO ENTERMENT HD" tvg-logo="https://static.epg.best/pk/HarPalGeo.pk.png" group-title="PAKISTAN | ENTERTAINMENT",PK | GEO ENTERMENT HD
@@ -262,13 +263,13 @@ http://tv.cloudcdn.me:80/live.ts?channelId=410&deviceMac=00:1A:79:17:BE:A5&uid=5
 #EXTINF:0.1tvg-id="geokahani.pk" tvg-name="PK | GEO KAHANI HD" tvg-logo="https://static.epg.best/pk/Geokahani.pk.png" group-title="PAKISTAN | ENTERTAINMENT",PK | GEO KAHANI HD
 http://tv.cloudcdn.me:80/live.ts?channelId=412&deviceMac=00:1A:79:17:BE:A5&uid=5954
 
-#EXTINF:0.1tvg-id="" tvg-name="PK | Geo Tezz" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dc/Geo_Tez_logo.png" group-title="PAKISTAN | NEWS",PK | Geo Tezz
+#EXTINF:0.1tvg-id="" tvg-name="PK | Geo Tezz" tvg-logo="http://ujm.from-in.com/panel/imageicon/dcd7180.png" group-title="PAKISTAN | NEWS",PK | Geo Tezz
 http://tv.cloudcdn.me:80/live.ts?channelId=416&deviceMac=00:1A:79:17:BE:A5&uid=5954
 
 #EXTINF:0.1tvg-id="" tvg-name="PK | Urdu 1 HD" tvg-logo="http://pm1.narvii.com/6639/b6b2cb046acee550b1fab849ab8d841bf19c4030_00.jpg" group-title="PAKISTAN | ENTERTAINMENT",PK | Urdu 1 HD
 http://tv.cloudcdn.me:80/live.ts?channelId=456&deviceMac=00:1A:79:17:BE:A5&uid=5954
 
-#EXTINF:0.1tvg-id="ptvhome.pk" tvg-name="PK: PTV HOME HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/36/PTV_Home.png" group-title="PAKISTAN | ENTERTAINMENT",PK: PTV HOME HD
+#EXTINF:0.1tvg-id="ptvhome.pk" tvg-name="PK: PTV HOME HD" tvg-logo="https://en.wikipedia.org/wiki/PTV_Home" group-title="PAKISTAN | ENTERTAINMENT",PK: PTV HOME HD
 http://tv.cloudcdn.me:80/live.ts?channelId=444&deviceMac=00:1A:79:17:BE:A5&uid=5954
 #EXTINF:0.1tvg-id="" tvg-name="PK: Aur Life" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGUwmjWf2oao_RXxv4IVnfoC2aL3vHF3AX-Q&s" group-title="PAKISTAN | ENTERTAINMENT",PK: Aur Life
 http://tv.cloudcdn.me:80/live.ts?channelId=74228&deviceMac=00:1A:79:17:BE:A5&uid=5954
@@ -287,7 +288,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=450&deviceMac=00:1A:79:17:BE:A5&uid=5
 #EXTINF:0.1tvg-id="" tvg-name="PK | ATV ENTERTENMENT" tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/atv_pk.png" group-title="PAKISTAN | ENTERTAINMENT",PK | ATV ENTERTENMENT
 http://tv.cloudcdn.me:80/live.ts?channelId=394&deviceMac=00:1A:79:17:BE:A5&uid=5954
 
-#EXTINF:0.1tvg-id="apna.pk" tvg-name="PK | Apna Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4e/Apna_Channel_New_Logo.png" group-title="PAKISTAN | ENTERTAINMENT",PK | Apna Channel
+#EXTINF:0.1tvg-id="apna.pk" tvg-name="PK | Apna Channel" tvg-logo="http://ujm.from-in.com/panel/imageicon/42ebe06.png" group-title="PAKISTAN | ENTERTAINMENT",PK | Apna Channel
 http://tv.cloudcdn.me:80/live.ts?channelId=379&deviceMac=00:1A:79:17:BE:A5&uid=5954
 #EXTINF:0.1tvg-id="arymusik.pk" tvg-name="PK | Ary Music Pk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/ARY_Musik_logo.png/220px-ARY_Musik_logo.png" group-title="PAKISTAN | ENTERTAINMENT",PK | Ary Music Pk
 http://tv.cloudcdn.me:80/live.ts?channelId=384&deviceMac=00:1A:79:17:BE:A5&uid=5954
@@ -308,7 +309,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=36260&deviceMac=00:1A:79:17:BE:A5&uid
 
 #EXTINF:0.1tvg-id="" tvg-name="PK: 8XM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/8XM_Logo.png" group-title="PAKISTAN | ENTERTAINMENT",PK: 8XM
 http://tv.cloudcdn.me:80/live.ts?channelId=370&deviceMac=00:1A:79:17:BE:A5&uid=5954
-#EXTINF:0.1tvg-id="" tvg-name="PK: AAJ ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Aaj_Entertainment_Logo.png" group-title="PAKISTAN | ENTERTAINMENT",PK: AAJ ENTERTAINMENT
+#EXTINF:0.1tvg-id="" tvg-name="PK: AAJ ENTERTAINMENT" tvg-logo="http://ujm.from-in.com/panel/imageicon/af92ebd.png" group-title="PAKISTAN | ENTERTAINMENT",PK: AAJ ENTERTAINMENT
 http://tv.cloudcdn.me:80/live.ts?channelId=375&deviceMac=00:1A:79:17:BE:A5&uid=5954
 
 
@@ -322,7 +323,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=409&deviceMac=00:1A:79:17:BE:A5&uid=5
 http://tv.cloudcdn.me:80/live.ts?channelId=22763&deviceMac=00:1A:79:17:BE:A5&uid=5954
 #EXTINF:0.1tvg-id="" tvg-name="PK: SINDH TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Sindh_tv.jpg" group-title="PAKISTAN | ENTERTAINMENT",PK: SINDH TV
 http://tv.cloudcdn.me:80/live.ts?channelId=452&deviceMac=00:1A:79:17:BE:A5&uid=5954
-#EXTINF:0.1tvg-id="" tvg-name="PK: Venus TV" tvg-logo="https://www.lyngsat.com/logo/tv/vv/venus_uk.png" group-title="PAKISTAN | ENTERTAINMENT",PK: Venus TV
+#EXTINF:0.1tvg-id="" tvg-name="PK: Venus TV" tvg-logo="http://ujm.from-in.com/imageicon/e497324.png" group-title="PAKISTAN | ENTERTAINMENT",PK: Venus TV
 http://tv.cloudcdn.me:80/live.ts?channelId=132185&deviceMac=00:1A:79:17:BE:A5&uid=5954
 #EXTINF:0.1tvg-id="" tvg-name="PK: FILMAZIA ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Filmazia.png" group-title="PAKISTAN | ENTERTAINMENT",PK: FILMAZIA ENTERTAINMENT
 http://tv.cloudcdn.me:80/live.ts?channelId=57489&deviceMac=00:1A:79:17:BE:A5&uid=5954
@@ -330,7 +331,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=57489&deviceMac=00:1A:79:17:BE:A5&uid
 http://tv.cloudcdn.me:80/live.ts?channelId=132241&deviceMac=00:1A:79:17:BE:A5&uid=5954
 #EXTINF:0.1tvg-id="" tvg-name="PK: PAKUS TV" tvg-logo="http://secureservercdn.net/198.71.233.141/27r.eed.myftpupload.com/wp-content/uploads/2018/03/cropped-PAKUSTV-1-2-300x300.jpg" group-title="PAKISTAN | ENTERTAINMENT",PK: PAKUS TV
 http://tv.cloudcdn.me:80/live.ts?channelId=466&deviceMac=00:1A:79:17:BE:A5&uid=5954
-#EXTINF:0.1tvg-id="" tvg-name="PK | LTN FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/LTN_Family.png" group-title="PAKISTAN | ENTERTAINMENT",PK | LTN FAMILY
+#EXTINF:0.1tvg-id="" tvg-name="PK | LTN FAMILY" tvg-logo="http://ujm.from-in.com/imageicon/a78f70e.png" group-title="PAKISTAN | ENTERTAINMENT",PK | LTN FAMILY
 http://tv.cloudcdn.me:80/live.ts?channelId=33166&deviceMac=00:1A:79:17:BE:A5&uid=5954
 #EXTINF:0.1tvg-id="" tvg-name="PK | KASHISH" tvg-logo="http://b1g.fun/logos2/kashish.jpg" group-title="PAKISTAN | ENTERTAINMENT",PK | KASHISH
 http://tv.cloudcdn.me:80/live.ts?channelId=57488&deviceMac=00:1A:79:17:BE:A5&uid=5954
@@ -368,19 +369,19 @@ http://tv.cloudcdn.me:80/live.ts?channelId=35530&deviceMac=00:1A:79:17:BE:A5&uid
 #EXTINF:0.1tvg-id="" tvg-name="star sports" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2019/04/12/star-sports.jpg" group-title="CRICKET", star sports 1
 http://tv.cloudcdn.me:80/live.ts?channelId=295&deviceMac=00:1A:79:17:BE:A5&uid=5954
 
-#EXTINF:-1. tvg-id="TNT.Sports.1.uk" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/UK/BTSPORT.png" ,BT SPORT 1
+#EXTINF:-1. tvg-id="TNT.Sports.1.uk" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT%20SPORTS/TNT%20SPORTS.png" ,BT SPORT 1
 http://tv.cloudcdn.me:80/live.ts?channelId=267&uid=1384&deviceMac=00:1A:79:17:BE:A5&uid=5954
 
 
-#EXTINF:-1. tvg-id="TNTSports2.HD.uk" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/UK/BTSPORT.png",BT SPORT 2
+#EXTINF:-1. tvg-id="TNTSports2.HD.uk" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT%20SPORTS/TNT%20SPORTS.png",BT SPORT 2
 http://tv.cloudcdn.me:80/live.ts?channelId=268&uid=1384&deviceMac=00:1A:79:17:BE:A5&uid=5954
 
 
-#EXTINF:-1. tvg-id="TNT.Sports.3.uk" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/UK/BTSPORT.png" ,BT SPORT 3
+#EXTINF:-1. tvg-id="TNT.Sports.3.uk" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT%20SPORTS/TNT%20SPORTS.png" ,BT SPORT 3
 http://tv.cloudcdn.me:80/live.ts?channelId=269&uid=1384&deviceMac=00:1A:79:17:BE:A5&uid=5954
 
 
-#EXTINF:-1. tvg-id="TNT.Sports.4.uk" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/UK/BTSPORT.png" ,BT SPORT 4
+#EXTINF:-1. tvg-id="TNT.Sports.4.uk" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT%20SPORTS/TNT%20SPORTS.png" ,BT SPORT 4
 http://tv.cloudcdn.me:80/live.ts?channelId=270&uid=1384&deviceMac=00:1A:79:17:BE:A5&uid=5954
 
 
@@ -431,6 +432,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=4212&uid=5954&deviceMac=00:1A:79:17:B
 
 #EXTINF:0.1tvg-id="" tvg-name="Sony BBC Ear (4K)" tvg-logo="https://d7lhl2xa7nj3o.cloudfront.net/images/logo.png" group-title="INDIAN | 4K ULTRA HD",Sony BBC Ear (4K)
 http://tv.cloudcdn.me:80/live.ts?channelId=126224&uid=12643&deviceMac=00:1A:79:03:13:DE
+
 
 
 
