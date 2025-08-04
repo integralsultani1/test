@@ -166,11 +166,11 @@ http://tv.cloudcdn.me:80/live.ts?channelId=32496&deviceMac=00:1A:79:17:BE:A5&uid
 
 
 
-#EXTINF:0.1tvg-id="bbcworldnews.za" tvg-name="Af | DSTV: BBC World News" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/12028.jpg?67314" group-title="DSTV | NEWS",Af | BBC News
+#EXTINF:0.1tvg-id="bbcworldnews.za" tvg-name="Af | DSTV: BBC World News" tvg-logo="http://picons.cmshulk.com/picons/bbcworldservice.png" group-title="DSTV | NEWS",Af | BBC News
 http://download.best-ott.me:80/play/live.php?mac=00:1A:79:56:90:E7&stream=717702&extension=ts&play_token=WOEyE3lFMw
 
 
-#EXTINF:0.1tvg-id="bbcworldnews.za" tvg-name="Af | DSTV: BBC World News" tvg-logo="http://vod-logo.net/photos/6fc57894c1daaf83ccdf51047ce06bd1.png" group-title="DSTV | NEWS",Af | BBC World News
+#EXTINF:0.1tvg-id="bbcworldnews.za" tvg-name="Af | DSTV: BBC World News" tvg-logo="http://picons.cmshulk.com/picons/bbcworldsv.png" group-title="DSTV | NEWS",Af | BBC World News
 http://download.best-ott.me:80/play/live.php?mac=00:1A:79:56:90:E7&stream=162143&extension=ts&play_token=hTQTt0bEql
 
 
@@ -432,6 +432,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=4212&uid=5954&deviceMac=00:1A:79:17:B
 
 #EXTINF:0.1tvg-id="" tvg-name="Sony BBC Ear (4K)" tvg-logo="https://d7lhl2xa7nj3o.cloudfront.net/images/logo.png" group-title="INDIAN | 4K ULTRA HD",Sony BBC Ear (4K)
 http://tv.cloudcdn.me:80/live.ts?channelId=126224&uid=12643&deviceMac=00:1A:79:03:13:DE
+
 
 
 
