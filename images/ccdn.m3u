@@ -184,7 +184,7 @@ http://download.best-ott.me:80/play/live.php?mac=00:1A:79:56:90:E7&stream=138900
 
 
 
-#EXTINF:0.1tvg-id="" tvg-name="Skynews" tvg-logo="https://images.contentstack.io/v3/assets/bltdc2476c7b6b194dd/blt95ccec8f25abe1a1/60b7967a3f701e265e4e93e2/Sky_News_PRIMARY_RGB.png" group-title="DSTV | NEWS", Sky News
+#EXTINF:0.1tvg-id="" tvg-name="Skynews" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbEcTC5pyFCmCwnGeRAsxAMr8bjIhTUZvAsgA3tsDtbPvLUxFKc-1H9xnfUmoAcVIudQ&usqp=CAU" group-title="DSTV | NEWS", Sky News
 http://download.best-ott.me:80/play/live.php?mac=00:1A:79:56:90:E7&stream=162155&extension=ts&play_token=FXX6aQeNSx
 
 
@@ -434,6 +434,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=4212&uid=5954&deviceMac=00:1A:79:17:B
 
 #EXTINF:0.1tvg-id="" tvg-name="Sony BBC Ear (4K)" tvg-logo="https://d7lhl2xa7nj3o.cloudfront.net/images/logo.png" group-title="INDIAN | 4K ULTRA HD",Sony BBC Ear (4K)
 http://tv.cloudcdn.me:80/live.ts?channelId=126224&uid=12643&deviceMac=00:1A:79:03:13:DE
+
 
 
 
