@@ -197,7 +197,7 @@ http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:d9:05:79&stream=459632&ext
 
 
 
-#EXTINF:0.1tvg-id="" tvg-name="Skynews" tvg-logo="https://static.wikia.nocookie.net/youtube/images/d/d7/ABC_News_%28Australia%29.jpg/revision/latest?cb=20240819095441" group-title="DSTV | NEWS", Abc News Mellbourne
+#EXTINF:0.1tvg-id="" tvg-name="Skynews" tvg-logo="https://quantxlabs.com/wp-content/uploads/2019/10/ABC_News_Channel.svg_.png" group-title="DSTV | NEWS", Abc News Mellbourne
 http://download.best-ott.me:80/play/live.php?mac=00:1A:79:56:90:E7&stream=750644&extension=ts&play_token=g10zZw53LT
 
 
@@ -434,6 +434,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=4212&uid=5954&deviceMac=00:1A:79:17:B
 
 #EXTINF:0.1tvg-id="" tvg-name="Sony BBC Ear (4K)" tvg-logo="https://d7lhl2xa7nj3o.cloudfront.net/images/logo.png" group-title="INDIAN | 4K ULTRA HD",Sony BBC Ear (4K)
 http://tv.cloudcdn.me:80/live.ts?channelId=126224&uid=12643&deviceMac=00:1A:79:03:13:DE
+
 
 
 
