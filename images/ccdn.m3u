@@ -189,11 +189,13 @@ http://download.best-ott.me:80/play/live.php?mac=00:1A:79:56:90:E7&stream=162155
 
 
 #EXTINF:0.1tvg-id="dunyanews.pk" tvg-name="IN: Al Jazeera" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/aljazeera-uk.png" group-title="DSTV | NEWS", Af | Al Jazeera 1
+http://download.best-ott.me:80/play/live.php?mac=00:1A:79:56:90:E7&stream=1159428&extension=ts&play_token=rW7KScWWzs
 http://gold.cdn-4k.cloud:80/play/live.php?mac=00:1A:79:73:7a:df&stream=1181170&extension=ts&play_token=PMYS43rRRq
 http://gold.cdn-4k.cloud:80/play/live.php?mac=00:1A:79:73:7a:df&stream=1159428&extension=ts&play_token=1Jl5Hub3I0
 
 
 #EXTINF:0.1tvg-id="" tvg-name="CNN" tvg-logo="http://138.199.27.237:8080/PORTUGAL/CNN.png" group-title="DSTV | NEWS", CNN
+http://wolftv.me:80/play/live.php?mac=00:1A:79:56:90:E7&stream=1159411&extension=ts&play_token=G2f9f703HI
 http://gold.cdn-4k.cloud:80/play/live.php?mac=00:1A:79:73:7a:df&stream=1159411&extension=ts&play_token=gRCSjsyFVn
 
 
@@ -434,6 +436,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=4212&uid=5954&deviceMac=00:1A:79:17:B
 
 #EXTINF:0.1tvg-id="" tvg-name="Sony BBC Ear (4K)" tvg-logo="https://d7lhl2xa7nj3o.cloudfront.net/images/logo.png" group-title="INDIAN | 4K ULTRA HD",Sony BBC Ear (4K)
 http://tv.cloudcdn.me:80/live.ts?channelId=126224&uid=12643&deviceMac=00:1A:79:03:13:DE
+
 
 
 
