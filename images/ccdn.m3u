@@ -167,11 +167,11 @@ http://tv.cloudcdn.me:80/live.ts?channelId=32496&deviceMac=00:1A:79:17:BE:A5&uid
 
 
 #EXTINF:0.1tvg-id="bbcworldnews.za" tvg-name="Af | DSTV: BBC World News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/BBC_News_%282008%29.svg/2560px-BBC_News_%282008%29.svg.png" group-title="DSTV | NEWS",Af | BBC News
-http://download.best-ott.me:80/play/live.php?mac=00:1A:79:56:90:E7&stream=717702&extension=ts&play_token=WOEyE3lFMw
+http://klaratv.com:80/play/live.php?mac=00:1A:79:3c:6f:0f&stream=75865&extension=ts&play_token=yB19aWiwUM
 
 
 #EXTINF:0.1tvg-id="bbcworldnews.za" tvg-name="Af | DSTV: BBC World News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BBC_World_News_2022_%28Boxed%29.svg/2048px-BBC_World_News_2022_%28Boxed%29.svg.png" group-title="DSTV | NEWS",Af | BBC World News
-http://download.best-ott.me:80/play/live.php?mac=00:1A:79:56:90:E7&stream=162143&extension=ts&play_token=hTQTt0bEql
+http://klaratv.com:80/play/live.php?mac=00:1A:79:3c:6f:0f&stream=521001&extension=ts&play_token=XL0ns5JtEk
 
 
 #EXTINF:0.1tvg-id="" tvg-name="IN: Al Jazeera" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/aljazeera-uk.png" group-title="DSTV | NEWS", Af | Al Jazeera
@@ -180,39 +180,35 @@ https://live-hls-web-aje-fa.getaj.net/alternative/AJE/02.m3u8
 
 
 #EXTINF:0.1tvg-id="" tvg-name="IN: Al Jazeera" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/TRT_World_logosu.png" group-title="DSTV | NEWS", TRT World
-http://download.best-ott.me:80/play/live.php?mac=00:1A:79:56:90:E7&stream=1389001&extension=ts&play_token=5Ve0Zd8pvC
+http://klaratv.com:80/play/live.php?mac=00:1A:79:3c:6f:0f&stream=1564154&extension=ts&play_token=V3qeEIDA0u
 
 
 
 #EXTINF:0.1tvg-id="" tvg-name="Skynews" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbEcTC5pyFCmCwnGeRAsxAMr8bjIhTUZvAsgA3tsDtbPvLUxFKc-1H9xnfUmoAcVIudQ&usqp=CAU" group-title="DSTV | NEWS", Sky News
-http://download.best-ott.me:80/play/live.php?mac=00:1A:79:56:90:E7&stream=162155&extension=ts&play_token=FXX6aQeNSx
+http://klaratv.com:80/play/live.php?mac=00:1A:79:3c:6f:0f&stream=30504&extension=ts&play_token=2xjWW1EGVd
 
 
 #EXTINF:0.1tvg-id="dunyanews.pk" tvg-name="IN: Al Jazeera" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/aljazeera-uk.png" group-title="DSTV | NEWS", Af | Al Jazeera 1
-http://download.best-ott.me:80/play/live.php?mac=00:1A:79:56:90:E7&stream=1181170&extension=ts&play_token=FXX6aQeNSx
+http://klaratv.com:80/play/live.php?mac=00:1A:79:3c:6f:0f&stream=1698649&extension=ts&play_token=JrBdbT9zBV
 
 
 
 #EXTINF:0.1tvg-id="" tvg-name="CNN" tvg-logo="http://138.199.27.237:8080/PORTUGAL/CNN.png" group-title="DSTV | NEWS", CNN
-http://download.best-ott.me:80/play/live.php?mac=00:1A:79:56:90:E7&stream=1159411&extension=ts&play_token=FXX6aQeNSx
-
-
+http://klaratv.com:80/play/live.php?mac=00:1A:79:3c:6f:0f&stream=1895732&extension=ts&play_token=Yz0JkWZwvi
 
 
 #EXTINF:0.1tvg-id="" tvg-name="abcnewsau" tvg-logo="https://quantxlabs.com/wp-content/uploads/2019/10/ABC_News_Channel.svg_.png" group-title="DSTV | NEWS", Abc News Mellbourne
-http://download.best-ott.me:80/play/live.php?mac=00:1A:79:56:90:E7&stream=750644&extension=ts&play_token=g10zZw53LT
-
+http://klaratv.com:80/play/live.php?mac=00:1A:79:3c:6f:0f&stream=1130813&extension=ts&play_token=y02ko1ZmMU
 
 
 
 #EXTINF:0.1tvg-id="" tvg-name="euronews" tvg-logo="https://staticcyl.euronews.com/wp-content/uploads/2023/03/Euronews-Com-Services_logo-2023_RGB_white-on-neon.png" group-title="DSTV | NEWS", Euro News
-http://download.best-ott.me:80/play/live.php?mac=00:1A:79:56:90:E7&stream=1517629&extension=ts&play_token=ZFJwm7qnIF
+http://klaratv.com:80/play/live.php?mac=00:1A:79:3c:6f:0f&stream=1891264&extension=ts&play_token=JNiEJa44zL
+
 
 
 #EXTINF:0.1tvg-id="" tvg-name="france24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/635px-France24.png" group-title="DSTV | NEWS", France 24
-http://download.best-ott.me:80/play/live.php?mac=00:1A:79:56:90:E7&stream=1389068&extension=ts&play_token=bCS9WPRJPO
-
-
+http://klaratv.com:80/play/live.php?mac=00:1A:79:3c:6f:0f&stream=1687160&extension=ts&play_token=oOvReyOHX8
 
 
 
