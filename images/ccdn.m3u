@@ -172,12 +172,10 @@ http://tv.cloudcdn.me:80/live.ts?channelId=32496&deviceMac=00:1A:79:17:BE:A5&uid
 
 
 #EXTINF:0.1tvg-id="bbcworldnews.za" tvg-name="Af | DSTV: BBC World News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/BBC_News_%282008%29.svg/2560px-BBC_News_%282008%29.svg.png" group-title="DSTV | NEWS",Af | BBC News
-http://connect-uk.proxytx.cloud:80/play/live.php?mac=00:1A:79:b6:5e:be&stream=1687182&extension=ts&play_token=9g6QH2h55m
-
+http://tv.cloudcdn.me:80/live.ts?channelId=4216&uid=12643&deviceMac=00:1A:79:03:13:DE
 
 #EXTINF:0.1tvg-id="bbcworldnews.za" tvg-name="Af | DSTV: BBC World News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BBC_World_News_2022_%28Boxed%29.svg/2048px-BBC_World_News_2022_%28Boxed%29.svg.png" group-title="DSTV | NEWS",Af | BBC World News
-http://connect-uk.proxytx.cloud:80/play/live.php?mac=00:1A:79:b6:5e:be&stream=1687179&extension=ts&play_token=TGowjvTc3c
-
+http://tv.cloudcdn.me:80/live.ts?channelId=124149&uid=12643&deviceMac=00:1A:79:03:13:DE
 
 #EXTINF:0.1tvg-id="" tvg-name="IN: Al Jazeera" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/aljazeera-uk.png" group-title="DSTV | NEWS", Af | Al Jazeera
 https://live-hls-web-aje-fa.getaj.net/alternative/AJE/02.m3u8
@@ -185,35 +183,30 @@ https://live-hls-web-aje-fa.getaj.net/alternative/AJE/02.m3u8
 
 
 #EXTINF:0.1tvg-id="" tvg-name="IN: Al Jazeera" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/TRT_World_logosu.png" group-title="DSTV | NEWS", TRT World
-http://connect-uk.proxytx.cloud:80/play/live.php?mac=00:1A:79:b6:5e:be&stream=1564154&extension=ts&play_token=Z27fmObFpk
-
+http://tv.cloudcdn.me:80/live.ts?channelId=130147&uid=12643&deviceMac=00:1A:79:03:13:DE
 
 
 #EXTINF:0.1tvg-id="" tvg-name="Skynews" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbEcTC5pyFCmCwnGeRAsxAMr8bjIhTUZvAsgA3tsDtbPvLUxFKc-1H9xnfUmoAcVIudQ&usqp=CAU" group-title="DSTV | NEWS", Sky News
-http://connect-uk.proxytx.cloud:80/play/live.php?mac=00:1A:79:b6:5e:be&stream=30504&extension=ts&play_token=KM1lL7Dw1f
+http://tv.cloudcdn.me:80/live.ts?channelId=4240&uid=12643&deviceMac=00:1A:79:03:13:DE
 
 
 #EXTINF:0.1tvg-id="dunyanews.pk" tvg-name="IN: Al Jazeera" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/aljazeera-uk.png" group-title="DSTV | NEWS", Af | Al Jazeera 1
-http://connect-uk.proxytx.cloud:80/play/live.php?mac=00:1A:79:b6:5e:be&stream=1698649&extension=ts&play_token=6oRN78R8vn
-
+http://tv.cloudcdn.me:80/live.ts?channelId=124147&uid=12643&deviceMac=00:1A:79:03:13:DE
 
 
 #EXTINF:0.1tvg-id="" tvg-name="CNN" tvg-logo="http://138.199.27.237:8080/PORTUGAL/CNN.png" group-title="DSTV | NEWS", CNN
-http://connect-uk.proxytx.cloud:80/play/live.php?mac=00:1A:79:b6:5e:be&stream=1829547&extension=ts&play_token=cjhVBapdbt
-
+http://tv.cloudcdn.me:80/live.ts?channelId=132553&uid=12643&deviceMac=00:1A:79:03:13:DE
 
 #EXTINF:0.1tvg-id="" tvg-name="abcnewsau" tvg-logo="https://quantxlabs.com/wp-content/uploads/2019/10/ABC_News_Channel.svg_.png" group-title="DSTV | NEWS", Abc News Mellbourne
-http://connect-uk.proxytx.cloud:80/play/live.php?mac=00:1A:79:b6:5e:be&stream=1130813&extension=ts&play_token=Gv7qloxbN3
+http://opplex.tv:8080/live/Muaz688/Muaz123/348196.ts
 
 
 #EXTINF:0.1tvg-id="" tvg-name="euronews" tvg-logo="https://staticcyl.euronews.com/wp-content/uploads/2023/03/Euronews-Com-Services_logo-2023_RGB_white-on-neon.png" group-title="DSTV | NEWS", Euro News
-http://connect-uk.proxytx.cloud:80/play/live.php?mac=00:1A:79:b6:5e:be&stream=1829535&extension=ts&play_token=SHVXfel4lU
-
+http://tv.cloudcdn.me:80/live.ts?channelId=91008&uid=12643&deviceMac=00:1A:79:03:13:DE
 
 
 #EXTINF:0.1tvg-id="" tvg-name="france24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/635px-France24.png" group-title="DSTV | NEWS", France 24
-http://connect-uk.proxytx.cloud:80/play/live.php?mac=00:1A:79:b6:5e:be&stream=1829532&extension=ts&play_token=da1xsX2nM5
-
+http://tv.cloudcdn.me:80/live.ts?channelId=72954&uid=12643&deviceMac=00:1A:79:03:13:DE
 
 
 
@@ -436,6 +429,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=4212&uid=5954&deviceMac=00:1A:79:17:B
 
 #EXTINF:0.1tvg-id="" tvg-name="Sony BBC Ear (4K)" tvg-logo="https://d7lhl2xa7nj3o.cloudfront.net/images/logo.png" group-title="INDIAN | 4K ULTRA HD",Sony BBC Ear (4K)
 http://tv.cloudcdn.me:80/live.ts?channelId=126224&uid=12643&deviceMac=00:1A:79:03:13:DE
+
 
 
 
