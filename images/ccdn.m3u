@@ -173,11 +173,12 @@ http://tv.cloudcdn.me:80/live.ts?channelId=32496&deviceMac=00:1A:79:17:BE:A5&uid
 
 
 #EXTINF:0.1tvg-id="bbcworldnews.za" tvg-name="Af | DSTV: BBC World News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/BBC_News_%282008%29.svg/2560px-BBC_News_%282008%29.svg.png" group-title="DSTV | NEWS",Af | BBC News
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:e6:e2:a6&stream=75865&extension=ts&play_token=nzBd8Qw36N
+http://download.best-ott.me:80/play/live.php?mac=00:1A:79:73:7a:df&stream=717702&extension=m3u8&play_token=UVvU3UFRa1
 
 
 #EXTINF:0.1tvg-id="bbcworldnews.za" tvg-name="Af | DSTV: BBC World News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BBC_World_News_2022_%28Boxed%29.svg/2048px-BBC_World_News_2022_%28Boxed%29.svg.png" group-title="DSTV | NEWS",Af | BBC World News
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:e6:e2:a6&stream=1690059&extension=ts&play_token=Gf7WAboVPp
+http://download.best-ott.me:80/play/live.php?mac=00:1A:79:73:7a:df&stream=1159419&extension=m3u8&play_token=dvtvPKzu9m
+
 
 
 #EXTINF:0.1tvg-id="" tvg-name="IN: Al Jazeera" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/aljazeera-uk.png" group-title="DSTV | NEWS", Af | Al Jazeera
@@ -186,32 +187,34 @@ https://live-hls-web-aje-fa.getaj.net/alternative/AJE/02.m3u8
 
 
 #EXTINF:0.1tvg-id="" tvg-name="IN: Al Jazeera" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/TRT_World_logosu.png" group-title="DSTV | NEWS", TRT World
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:e6:e2:a6&stream=1564154&extension=ts&play_token=vlOqk5Hzuq
+http://download.best-ott.me:80/play/live.php?mac=00:1A:79:73:7a:df&stream=434021&extension=m3u8&play_token=9STnmKN8hx
 
 
 #EXTINF:0.1tvg-id="" tvg-name="Skynews" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbEcTC5pyFCmCwnGeRAsxAMr8bjIhTUZvAsgA3tsDtbPvLUxFKc-1H9xnfUmoAcVIudQ&usqp=CAU" group-title="DSTV | NEWS", Sky News
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:e6:e2:a6&stream=30504&extension=ts&play_token=vJX4Udciaz
+http://download.best-ott.me:80/play/live.php?mac=00:1A:79:73:7a:df&stream=162155&extension=m3u8&play_token=x7zzFpnCTt
 
 
 
 #EXTINF:0.1tvg-id="dunyanews.pk" tvg-name="IN: Al Jazeera" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/aljazeera-uk.png" group-title="DSTV | NEWS", Af | Al Jazeera 1
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:e6:e2:a6&stream=1829578&extension=ts&play_token=4VXHkVHDxE
+http://download.best-ott.me:80/play/live.php?mac=00:1A:79:73:7a:df&stream=1389114&extension=m3u8&play_token=ZUyvsg0ThL
 
 
 #EXTINF:0.1tvg-id="" tvg-name="CNN" tvg-logo="http://138.199.27.237:8080/PORTUGAL/CNN.png" group-title="DSTV | NEWS", CNN
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:e6:e2:a6&stream=1829547&extension=ts&play_token=iSkETN66A0
+http://download.best-ott.me:80/play/live.php?mac=00:1A:79:73:7a:df&stream=1159411&extension=m3u8&play_token=nWb42o1hVL
 
 
 #EXTINF:0.1tvg-id="" tvg-name="abcnewsau" tvg-logo="https://quantxlabs.com/wp-content/uploads/2019/10/ABC_News_Channel.svg_.png" group-title="DSTV | NEWS", Abc News Mellbourne
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:e6:e2:a6&stream=1130813&extension=ts&play_token=NJe8IjXCue
+http://download.best-ott.me:80/play/live.php?mac=00:1A:79:73:7a:df&stream=750644&extension=m3u8&play_token=Y6Lki7tcUd
 
 
 #EXTINF:0.1tvg-id="" tvg-name="euronews" tvg-logo="https://staticcyl.euronews.com/wp-content/uploads/2023/03/Euronews-Com-Services_logo-2023_RGB_white-on-neon.png" group-title="DSTV | NEWS", Euro News
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:e6:e2:a6&stream=1829535&extension=ts&play_token=peQLrmGrBJ
+http://download.best-ott.me:80/play/live.php?mac=00:1A:79:73:7a:df&stream=1389071&extension=m3u8&play_token=OepELgB9OS
 
 
 #EXTINF:0.1tvg-id="" tvg-name="france24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/635px-France24.png" group-title="DSTV | NEWS", France 24
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:e6:e2:a6&stream=1687160&extension=ts&play_token=dJlpQ4CDjS
+http://download.best-ott.me:80/play/live.php?mac=00:1A:79:73:7a:df&stream=1159400&extension=m3u8&play_token=4wYc4rFFMS
+
+
 
 
 
@@ -441,10 +444,6 @@ http://tv.cloudcdn.me:80/live.ts?channelId=4212&uid=5954&deviceMac=00:1A:79:17:B
 
 #EXTINF:0.1tvg-id="" tvg-name="Sony BBC Ear (4K)" tvg-logo="https://d7lhl2xa7nj3o.cloudfront.net/images/logo.png" group-title="INDIAN | 4K ULTRA HD",Sony BBC Ear (4K)
 http://tv.cloudcdn.me:80/live.ts?channelId=40478&uid=12643&deviceMac=00:1A:79:03:13:DE
-
-
-
-
 
 
 
