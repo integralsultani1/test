@@ -418,7 +418,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=244&deviceMac=00:1A:79:17:BE:A5&uid=5
 http://tv.cloudcdn.me:80/live.ts?channelId=246&uid=5954&deviceMac=00:1A:79:17:BE:A5
 
 #EXTINF:0.1tvg-id="nick.in" tvg-name="IN: Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png" group-title="INDIAN | KIDS Cartoon",IN: Nick
-http://filex.me:8080/live/2222/2222/319.ts
+http://delta8k.xyz:80/play/live.php?mac=00:1A:79:00:01:DF&stream=437659&extension=ts&play_token=f9MNQpcBJl
 
 
 #EXTINF:0.1tvg-id="pogo.in" tvg-name="IN: Pogo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/POGO-logo.png" group-title="INDIAN | KIDS Cartoon",IN: Pogo
@@ -448,6 +448,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=4212&uid=5954&deviceMac=00:1A:79:17:B
 
 #EXTINF:0.1tvg-id="" tvg-name="Sony BBC Ear (4K)" tvg-logo="https://d7lhl2xa7nj3o.cloudfront.net/images/logo.png" group-title="INDIAN | 4K ULTRA HD",Sony BBC Ear (4K)
 http://tv.cloudcdn.me:80/live.ts?channelId=40478&uid=12643&deviceMac=00:1A:79:03:13:DE
+
 
 
 
