@@ -172,7 +172,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=32496&deviceMac=00:1A:79:17:BE:A5&uid
 
 
 #EXTINF:0.1tvg-id="bbcworldnews.za" tvg-name="Af | DSTV: BBC World News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/BBC_News_%282008%29.svg/2560px-BBC_News_%282008%29.svg.png" group-title="DSTV | NEWS",Af | BBC News
-http://one.dream4ktv.biz:80/play/live.php?mac=00:1A:79:b4:b6:e7&stream=1163970&extension=ts
+http://one.dream4ktv.biz:80/play/live.php?mac=00:1A:79:b4:b6:e7&stream=1071994&extension=ts&play_token=SwTnqG92Q8
 
 
 #EXTINF:0.1tvg-id="bbcworldnews.za" tvg-name="Af | DSTV: BBC World News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BBC_World_News_2022_%28Boxed%29.svg/2048px-BBC_World_News_2022_%28Boxed%29.svg.png" group-title="DSTV | NEWS",Af | BBC World News
@@ -196,7 +196,7 @@ http://one.dream4ktv.biz:80/play/live.php?mac=00:1A:79:b4:b6:e7&stream=246833&ex
 
 
 #EXTINF:0.1tvg-id="dunyanews.pk" tvg-name="IN: Al Jazeera" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/aljazeera-uk.png" group-title="DSTV | NEWS", Af | Al Jazeera 1
-http://one.dream4ktv.biz:80/play/live.php?mac=00:1A:79:b4:b6:e7&stream=1446&extension=ts&play_token=YMLZ8LJ0gw
+http://one.dream4ktv.biz:80/play/live.php?mac=00:1A:79:b4:b6:e7&stream=312177&extension=ts&play_token=yeM3lAB0n3
 
 
 
@@ -209,11 +209,11 @@ http://one.dream4ktv.biz:80/play/live.php?mac=00:1A:79:b4:b6:e7&stream=288371&ex
 
 
 #EXTINF:0.1tvg-id="" tvg-name="euronews" tvg-logo="https://staticcyl.euronews.com/wp-content/uploads/2023/03/Euronews-Com-Services_logo-2023_RGB_white-on-neon.png" group-title="DSTV | NEWS", Euro News
-http://one.dream4ktv.biz:80/play/live.php?mac=00:1A:79:b4:b6:e7&stream=305973&extension=ts&play_token=xfeKCQSZNg
+http://one.dream4ktv.biz:80/play/live.php?mac=00:1A:79:b4:b6:e7&stream=1075490&extension=ts&play_token=2c9iJK048e
 
 
 #EXTINF:0.1tvg-id="" tvg-name="france24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/635px-France24.png" group-title="DSTV | NEWS", France 24
-http://one.dream4ktv.biz:80/play/live.php?mac=00:1A:79:b4:b6:e7&stream=1163784&extension=ts&play_token=fS5s1blI2L
+http://one.dream4ktv.biz:80/play/live.php?mac=00:1A:79:b4:b6:e7&stream=1163966&extension=ts&play_token=VTUOc7on6K
 
 
 
@@ -417,7 +417,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=244&deviceMac=00:1A:79:17:BE:A5&uid=5
 http://tv.cloudcdn.me:80/live.ts?channelId=246&uid=5954&deviceMac=00:1A:79:17:BE:A5
 
 #EXTINF:0.1tvg-id="nick.in" tvg-name="IN: Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png" group-title="INDIAN | KIDS Cartoon",IN: Nick
-http://filex.me:8080/live/2222/2222/319.ts
+http://opplex.to:8080/live/Muaz688/Muaz123/150482.ts
+
 
 #EXTINF:0.1tvg-id="pogo.in" tvg-name="IN: Pogo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/POGO-logo.png" group-title="INDIAN | KIDS Cartoon",IN: Pogo
 http://tv.cloudcdn.me:80/live.ts?channelId=256&deviceMac=00:1A:79:17:BE:A5&uid=5954
@@ -446,6 +447,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=4212&uid=5954&deviceMac=00:1A:79:17:B
 
 #EXTINF:0.1tvg-id="" tvg-name="Sony BBC Ear (4K)" tvg-logo="https://d7lhl2xa7nj3o.cloudfront.net/images/logo.png" group-title="INDIAN | 4K ULTRA HD",Sony BBC Ear (4K)
 http://tv.cloudcdn.me:80/live.ts?channelId=126224&uid=12643&deviceMac=00:1A:79:03:13:DE
+
 
 
 
