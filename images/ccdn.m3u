@@ -172,11 +172,11 @@ http://tv.cloudcdn.me:80/live.ts?channelId=32496&deviceMac=00:1A:79:17:BE:A5&uid
 
 
 #EXTINF:0.1tvg-id="bbcworldnews.za" tvg-name="Af | DSTV: BBC World News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/BBC_News_%282008%29.svg/2560px-BBC_News_%282008%29.svg.png" group-title="DSTV | NEWS",Af | BBC News
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:17:99&stream=823745&extension=ts
+http://one.dream4ktv.biz:80/play/live.php?mac=00:1A:79:b4:b6:e7&stream=1163970&extension=ts
 
 
 #EXTINF:0.1tvg-id="bbcworldnews.za" tvg-name="Af | DSTV: BBC World News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BBC_World_News_2022_%28Boxed%29.svg/2048px-BBC_World_News_2022_%28Boxed%29.svg.png" group-title="DSTV | NEWS",Af | BBC World News
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:17:99&stream=855327&extension=ts
+http://one.dream4ktv.biz:80/play/live.php?mac=00:1A:79:b4:b6:e7&stream=1163707&extension=ts&play_token=kknHuktlEE
 
 
 
@@ -186,34 +186,34 @@ https://live-hls-web-aje-fa.getaj.net/alternative/AJE/02.m3u8
 
 
 #EXTINF:0.1tvg-id="" tvg-name="IN: Al Jazeera" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/TRT_World_logosu.png" group-title="DSTV | NEWS", TRT World
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:17:99&stream=941858&extension=ts
+http://one.dream4ktv.biz:80/play/live.php?mac=00:1A:79:b4:b6:e7&stream=305929&extension=ts&play_token=nMBYfKGUu6
 
 
 
 #EXTINF:0.1tvg-id="" tvg-name="Skynews" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbEcTC5pyFCmCwnGeRAsxAMr8bjIhTUZvAsgA3tsDtbPvLUxFKc-1H9xnfUmoAcVIudQ&usqp=CAU" group-title="DSTV | NEWS", Sky News
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:17:99&stream=823742&extension=ts
+http://one.dream4ktv.biz:80/play/live.php?mac=00:1A:79:b4:b6:e7&stream=246833&extension=ts&play_token=KLKQXsUvn4
 
 
 
 #EXTINF:0.1tvg-id="dunyanews.pk" tvg-name="IN: Al Jazeera" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/aljazeera-uk.png" group-title="DSTV | NEWS", Af | Al Jazeera 1
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:17:99&stream=1084649&extension=ts
+http://one.dream4ktv.biz:80/play/live.php?mac=00:1A:79:b4:b6:e7&stream=1446&extension=ts&play_token=YMLZ8LJ0gw
 
 
 
 #EXTINF:0.1tvg-id="" tvg-name="CNN" tvg-logo="http://138.199.27.237:8080/PORTUGAL/CNN.png" group-title="DSTV | NEWS", CNN
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:17:99&stream=947901&extension=ts
+http://one.dream4ktv.biz:80/play/live.php?mac=00:1A:79:b4:b6:e7&stream=1163749&extension=ts&play_token=fGJygNtyIa
 
 
 #EXTINF:0.1tvg-id="" tvg-name="abcnewsau" tvg-logo="https://quantxlabs.com/wp-content/uploads/2019/10/ABC_News_Channel.svg_.png" group-title="DSTV | NEWS", Abc News Mellbourne
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:17:99&stream=944696&extension=ts
+http://one.dream4ktv.biz:80/play/live.php?mac=00:1A:79:b4:b6:e7&stream=288371&extension=ts&play_token=48YlDmnCRB
 
 
 #EXTINF:0.1tvg-id="" tvg-name="euronews" tvg-logo="https://staticcyl.euronews.com/wp-content/uploads/2023/03/Euronews-Com-Services_logo-2023_RGB_white-on-neon.png" group-title="DSTV | NEWS", Euro News
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:17:99&stream=1079941&extension=ts
+http://one.dream4ktv.biz:80/play/live.php?mac=00:1A:79:b4:b6:e7&stream=288371&extension=ts&play_token=48YlDmnCRB
 
 
 #EXTINF:0.1tvg-id="" tvg-name="france24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/635px-France24.png" group-title="DSTV | NEWS", France 24
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:17:99&stream=947919&extension=ts
+http://one.dream4ktv.biz:80/play/live.php?mac=00:1A:79:b4:b6:e7&stream=1163784&extension=ts&play_token=fS5s1blI2L
 
 
 
@@ -446,6 +446,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=4212&uid=5954&deviceMac=00:1A:79:17:B
 
 #EXTINF:0.1tvg-id="" tvg-name="Sony BBC Ear (4K)" tvg-logo="https://d7lhl2xa7nj3o.cloudfront.net/images/logo.png" group-title="INDIAN | 4K ULTRA HD",Sony BBC Ear (4K)
 http://tv.cloudcdn.me:80/live.ts?channelId=126224&uid=12643&deviceMac=00:1A:79:03:13:DE
+
 
 
 
