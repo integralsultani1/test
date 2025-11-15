@@ -181,7 +181,7 @@ http://one.dream4ktv.biz:80/play/live.php?mac=00:1A:79:ab:0b:27&stream=1163707&e
 
 
 #EXTINF:0.1tvg-id="" tvg-name="IN: Al Jazeera" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/aljazeera-uk.png" group-title="DSTV | NEWS", Af | Al Jazeera
-https://live-hls-web-aje-fa.getaj.net/alternative/AJE/02.m3u8
+https://live-hls-web-aje-gcp.thehlive.com/AJE/02.m3u8
 
 
 
@@ -447,6 +447,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=4212&uid=5954&deviceMac=00:1A:79:00:2
 
 #EXTINF:0.1tvg-id="" tvg-name="Sony BBC Ear (4K)" tvg-logo="https://d7lhl2xa7nj3o.cloudfront.net/images/logo.png" group-title="INDIAN | 4K ULTRA HD",Sony BBC Ear (4K)
 http://tv.cloudcdn.me:80/live.ts?channelId=126224&uid=12643&deviceMac=00:1A:79:03:13:DE
+
 
 
 
