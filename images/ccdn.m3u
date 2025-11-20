@@ -166,58 +166,50 @@ http://tv.cloudcdn.me:80/live.ts?channelId=32496&deviceMac=00:1A:79:17:BE:A5&uid
 
 
 #EXTINF:0.1tvg-id="bbcworldnews.za" tvg-name="Af | DSTV: BBC World News" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/12028.jpg?67314" group-title="DSTV | NEWS",Af | BBC News
-http://download.best-ott.me:80/play/live.php?mac=00:1A:79:B1:51:BB&stream=717702&extension=ts&play_token=WOEyE3lFMw
-http://download.best-ott.me:80/play/live.php?mac=00:1A:79:62:37:31&stream=717702&extension=ts&play_token=r9dNmX2QQz
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
 
 
 #EXTINF:0.1tvg-id="bbcworldnews.za" tvg-name="Af | DSTV: BBC World News" tvg-logo="http://vod-logo.net/photos/6fc57894c1daaf83ccdf51047ce06bd1.png" group-title="DSTV | NEWS",Af | BBC World News
-http://download.best-ott.me:80/play/live.php?mac=00:1A:79:B1:51:BB&stream=162143&extension=ts&play_token=hTQTt0bEql
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:1E:57&stream=821336&extension=ts&play_token=bimYg3Ys44
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
 
 
 
 #EXTINF:0.1tvg-id="" tvg-name="IN: Al Jazeera" tvg-logo="http://ujm.from-in.com/imageicon/662e2df3.jpg" group-title="DSTV | NEWS", Af | Al Jazeera
-https://live-hls-web-aje-fa.getaj.net/alternative/AJE/02.m3u8
-
+https://live-hls-web-aje-gcp.thehlive.com/AJE/02.m3u8
 
 
 #EXTINF:0.1tvg-id="" tvg-name="IN: Al Jazeera" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9vshNXCSAUbC5oHLxhEVbDhecR4uXr9ohTg&s" group-title="DSTV | NEWS", TRT World
-http://download.best-ott.me:80/play/live.php?mac=00:1A:79:B1:51:BB&stream=1389001&extension=ts&play_token=5Ve0Zd8pvC
-http://smariptv.xyz:80/play/live.php?mac=00:1A:79:55:55:ee&stream=111539&extension=ts&play_token=npjjegDWWU
-http://download.best-ott.me:80/play/live.php?mac=00:1A:79:62:37:31&stream=162157&extension=ts&play_token=kNfAdhUsjz
+https://cdn5.mjunoon.tv:8087/web/TRTENG-153/live/153H/chunks.m3u8
 
 
 
 #EXTINF:0.1tvg-id="" tvg-name="Skynews" tvg-logo="https://static.skyassets.com/contentstack/assets/bltdc2476c7b6b194dd/blt930f08f36cc65323/6311d7787066f57e88f6cde9/Sky-News-Main.jpg?downsize=1200:*&output-format=jpg" group-title="DSTV | NEWS", Sky News
-http://download.best-ott.me:80/play/live.php?mac=00:1A:79:B1:51:BB&stream=162155&extension=ts&play_token=FXX6aQeNSx
-http://download.best-ott.me:80/play/live.php?mac=00:1A:79:62:37:31&stream=162155&extension=ts&play_token=oNCMaclcsr
+https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/06_1080-30.m3u8
 
 
 
 #EXTINF:0.1tvg-id="dunyanews.pk" tvg-name="IN: Al Jazeera" tvg-logo="http://ujm.from-in.com/imageicon/662e2df3.jpg" group-title="DSTV | NEWS", Af | Al Jazeera 1
-http://download.best-ott.me:80/play/live.php?mac=00:1A:79:B1:51:BB&stream=1159428&extension=ts&play_token=rW7KScWWzs
-http://download.best-ott.me:80/play/live.php?mac=00:1A:79:62:37:31&stream=162148&extension=ts&play_token=JuuJmZQ7rq
+https://live-hls-web-aje-gcp.thehlive.com/AJE/02.m3u8
 
 
 #EXTINF:0.1tvg-id="" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1000px-CNN.svg.png" group-title="DSTV | NEWS", CNN
 http://wolftv.me:80/play/live.php?mac=00:1A:79:B1:51:BB&stream=1159411&extension=ts&play_token=G2f9f703HI
-http://download.best-ott.me:80/play/live.php?mac=00:1A:79:B1:51:BB&stream=1159411&extension=ts&play_token=ij2p7S5BPK
-http://download.best-ott.me:80/play/live.php?mac=00:1A:79:B1:51:BB&stream=873992&extension=ts&play_token=ij2p7S5BPK
-http://download.best-ott.me:80/play/live.php?mac=00:1A:79:62:37:31&stream=162147&extension=ts&play_token=Ew0ZUhdi74
+
 
 
 #EXTINF:0.1tvg-id="" tvg-name="Skynews" tvg-logo="https://www.abc.net.au/core-assets/core/abc-core.png?imformat=generic" group-title="DSTV | NEWS", Abc News Mellbourne
 http://download.best-ott.me:80/play/live.php?mac=00:1A:79:B1:51:BB&stream=750644&extension=ts&play_token=g10zZw53LT
-http://smariptv.xyz:80/play/live.php?mac=00:1A:79:55:55:ee&stream=1130813&extension=ts&play_token=vm554DXJYR
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:1E:57&stream=944670&extension=ts&play_token=gHaPKTtDIj
+
+
+
+#EXTINF:0.1tvg-id="" tvg-name="euronews" tvg-logo="https://staticcyl.euronews.com/wp-content/uploads/2023/03/Euronews-Com-Services_logo-2023_RGB_white-on-neon.png" group-title="DSTV | NEWS", Euro News
+http://delta8k.xyz:80/play/live.php?mac=00:1A:79:00:01:DF&stream=578145&extension=ts&play_token=DR48gLN6n7
 
 
 
 
-http://download.best-ott.me:80/play/live.php?mac=00:1A:79:00:17:48&stream=750644&extension=ts&play_token=g10zZw53LT
-
-
-http://wolftv.me:80/play/live.php?mac=00:1A:79:99:29:a4&stream=750644&extension=ts
+#EXTINF:0.1tvg-id="" tvg-name="france24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/635px-France24.png" group-title="DSTV | NEWS", France 24
+http://delta8k.xyz:80/play/live.php?mac=00:1A:79:00:01:DF&stream=1471667&extension=ts&play_token=cOkZL54q0c
 
 
 
@@ -496,6 +488,7 @@ http://zhqsng.net/c/play/live.php?mac=00:1A:79:B1:51:BB&stream=717702&extension=
 
 #EXTINF:0.1tvg-id="bbcworldnews.za" tvg-name="Af | DSTV: BBC World News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/BBC_News_%282008%29.svg/2560px-BBC_News_%282008%29.svg.png" group-title="DSTV | NEWS",Af | BBC News
 http://zhqsng.top/c/play/live.php?mac=00:1A:79:B1:51:BB&stream=717702&extension=ts&play_token=UVvU3UFRa1
+
 
 
 
