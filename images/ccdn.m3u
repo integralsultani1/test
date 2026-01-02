@@ -231,8 +231,12 @@ http://tv.cloudcdn.me:80/live.ts?channelId=163&deviceMac=00:1A:79:00:28:62&uid=5
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="news18urdu.in" tvg-name="IN-NEWS | D2H NEWS18 URDU" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/News18-Urdu.png" group-title="IN | News",IN-NEWS | D2H NEWS18 URDU
 http://tv.cloudcdn.me:80/live.ts?channelId=61901&deviceMac=00:1A:79:00:28:62&uid=5954
 
+#EXTINF:-1 tvg-id="126084" tvg-name="IN: Republic Bharat" tvg-logo="http://tv.cloudcdn.online/images/republicbharat.png" group-title="INDIAN",IN: Republic Bharat
+http://tv.cloudcdn.me:80/live.ts?channelId=126084&uid=5954&deviceMac=00:1A:79:03:13:DE
+
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="BD ATN News" tvg-name="IN-NEWS | D2H NEWS18 URDU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2D_gtLIDK0D00Kt_o4dAJuZvhlfB73LpfUw&s" group-title="IN | News",BD ATN News
 http://tv.cloudcdn.me:80/live.ts?channelId=83&deviceMac=00:1A:79:00:28:62&uid=5954
+
 
 
 
@@ -341,8 +345,78 @@ http://tv.cloudcdn.me:80/live.ts?channelId=57488&deviceMac=00:1A:79:00:28:62&uid
 #EXTINF:0.1tvg-id="" tvg-name="PK | ROHI TV" tvg-logo="http://b1g.fun/logos2/rohi_tv.jpg" group-title="PAKISTAN | ENTERTAINMENT",PK | ROHI TV
 http://tv.cloudcdn.me:80/live.ts?channelId=57490&deviceMac=00:1A:79:00:28:62&uid=5954
 
+
+
+
+
 #EXTINF:0.1tvg-id="" tvg-name="Sony Sab" tvg-logo="http://b1g.fun/logos2/sony_sab.jpg" group-title="PAKISTAN | ENTERTAINMENT",Sony Sab
 http://tv.cloudcdn.me:80/live.ts?channelId=191&deviceMac=00:1A:79:00:28:62&uid=5954
+
+#EXTINF:-1 tvg-id="183" tvg-name="IN: Sony Max 2 FHD" tvg-logo="http://ujm.from-in.com/panel/imageicon/54d97b8.png" group-title="INDIAN",IN: Sony Max 2 FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=183&uid=5954&deviceMac=00:1A:79:03:13:DE
+]
+
+#EXTINF:-1 tvg-id="184" tvg-name="IN: Sony Max FHD" tvg-logo="http://ujm.from-in.com/panel/imageicon/d052853.png" group-title="INDIAN",IN: Sony Max FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=184&uid=5954&deviceMac=00:1A:79:03:13:DE
+
+
+#EXTINF:-1 tvg-id="188" tvg-name="IN: Sony Pal FHD" tvg-logo="http://ujm.from-in.com/panel/imageicon/dc6e2ef.png" group-title="INDIAN",IN: Sony Pal FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=188&uid=5954&deviceMac=00:1A:79:03:13:DE
+
+
+
+#EXTINF:-1 tvg-id="193" tvg-name="IN: Sony TV FHD" tvg-logo="http://ujm.from-in.com/panel/imageicon/8046270.png" group-title="INDIAN",IN: Sony TV FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=193&uid=5954&deviceMac=00:1A:79:03:13:DE
+
+
+#EXTINF:-1 tvg-id="187" tvg-name="IN: Sony Wah FHD" tvg-logo="http://ujm.from-in.com/panel/imageicon/73c26e8.png" group-title="INDIAN",IN: Sony Wah FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=187&uid=5954&deviceMac=00:1A:79:03:13:DE
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="49859" tvg-name="IN: & Flix FHD" tvg-logo="http://ujm.from-in.com/panel/imageicon/4b87a41.png" group-title="INDIAN",IN: & Flix FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=49859&uid=5954&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1 tvg-id="139" tvg-name="IN: & Pictures FHD" tvg-logo="http://ujm.from-in.com/panel/imageicon/5329167.png" group-title="INDIAN",IN: & Pictures FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=139&uid=5954&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1 tvg-id="132225" tvg-name="IN: & PictureshD" tvg-logo="http://ujm.from-in.com/panel/imageicon/5329167.png" group-title="INDIAN",IN: & PictureshD
+http://tv.cloudcdn.me:80/live.ts?channelId=132225&uid=5954&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1 tvg-id="170" tvg-name="IN: & Privé FHD" tvg-logo="http://147.182.195.61/panel/imageicon/f931d51.png" group-title="INDIAN",IN: & Privé FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=170&uid=5954&deviceMac=00:1A:79:03:13:DE
+
+#EXTINF:-1 tvg-id="35383" tvg-name="IN: B4U Kadak" tvg-logo="http://ujm.from-in.com/panel/imageicon/27cf79e.png" group-title="INDIAN",IN: B4U Kadak
+http://tv.cloudcdn.me:80/live.ts?channelId=35383&uid=5954&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1 tvg-id="152" tvg-name="IN: B4U Movies" tvg-logo="http://ujm.from-in.com/panel/imageicon/127afc4.png" group-title="INDIAN",IN: B4U Movies
+http://tv.cloudcdn.me:80/live.ts?channelId=152&uid=5954&deviceMac=00:1A:79:03:13:DE
+
+#EXTINF:-1 tvg-id="62412" tvg-name="IN: Colors Cineplex BollywoodhD" tvg-logo="http://ujm.from-in.com/panel/imageicon/6ae38c6.png" group-title="INDIAN",IN: Colors Cineplex BollywoodhD
+http://tv.cloudcdn.me:80/live.ts?channelId=62412&uid=5954&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1 tvg-id="470" tvg-name="IN: Colors Cineplex FHD" tvg-logo="http://ujm.from-in.com/panel/imageicon/711d60e.png" group-title="INDIAN",IN: Colors Cineplex FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=470&uid=5954&deviceMac=00:1A:79:03:13:DE
+
+
+#EXTINF:-1 tvg-id="132800" tvg-name="IN: Shemaroo Bollywood FHD" group-title="INDIAN",IN: Shemaroo Bollywood FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=132800&uid=5954&deviceMac=00:1A:79:03:13:DE
+
+#EXTINF:-1 tvg-id="196" tvg-name="IN: Star Gold FHD" tvg-logo="http://ujm.from-in.com/panel/imageicon/770f5fd.png" group-title="INDIAN",IN: Star Gold FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=196&uid=5954&deviceMac=00:1A:79:03:13:DE
+
+#EXTINF:-1 tvg-id="207" tvg-name="IN: Zee Action" tvg-logo="http://ujm.from-in.com/panel/imageicon/5f10964.png" group-title="INDIAN",IN: Zee Action
+http://tv.cloudcdn.me:80/live.ts?channelId=207&uid=5954&deviceMac=00:1A:79:03:13:DE
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="189" tvg-name="IN: Sony Pix FHD" tvg-logo="http://ujm.from-in.com/panel/imageicon/0deace4.png" group-title="INDIAN",IN: Sony Pix FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=189&uid=5954&deviceMac=00:1A:79:03:13:DE
 
 
 
@@ -356,6 +430,9 @@ http://tv.cloudcdn.me:80/live.ts?channelId=199&uid=12643&deviceMac=00:1A:79:03:1
 
 #EXTINF:0.1tvg-id="" tvg-name="Hbo" tvg-logo="https://www.vhv.rs/dpng/d/34-348096_logo-hbo-hd-png-download.png" group-title="PAKISTAN | ENTERTAINMENT",HBO
 http://tv.cloudcdn.me:80/live.ts?channelId=49858&uid=12643&deviceMac=00:1A:79:03:13:DE
+
+#EXTINF:-1 tvg-id="483" tvg-name="UK: Sky Cinema Premiere" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f8b886d94093598be2136bc2e0d1fee3.png" group-title="UNITED KINGDOM",UK: Sky Cinema Premiere
+http://tv.cloudcdn.me:80/live.ts?channelId=483&uid=5954&deviceMac=00:1A:79:03:13:DE
 
 
 
@@ -410,6 +487,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=306&deviceMac=00:1A:79:00:28:62&uid=5
 http://tv.cloudcdn.me:80/live.ts?channelId=19754&deviceMac=00:1A:79:00:28:62&uid=5954
 
 #EXTINF:0.1tvg-id="cartoonnetworkhd.in" tvg-name="IN: Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2000px-Cartoon_Network_2010_logo.svg.png" group-title="INDIAN | KIDS Cartoon",IN: Cartoon Network
+http://filex.me:8080/live/3114654477/5787654467/499702.ts
 http://tv.cloudcdn.me:80/live.ts?channelId=244&deviceMac=00:1A:79:00:28:62&uid=5954
 
 #EXTINF:0.1tvg-id="cartoonnetworkhd.in1" tvg-name="IN: Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2000px-Cartoon_Network_2010_logo.svg.png" group-title="INDIAN | KIDS Cartoon",IN: Cartoon Network 1
@@ -445,11 +523,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=177&deviceMac=00:1A:79:00:28:62&uid=5
 http://tv.cloudcdn.me:80/live.ts?channelId=4212&uid=5954&deviceMac=00:1A:79:00:28:62&uid=5954
 
 #EXTINF:0.1tvg-id="" tvg-name="Sony BBC Ear (4K)" tvg-logo="https://d7lhl2xa7nj3o.cloudfront.net/images/logo.png" group-title="INDIAN | 4K ULTRA HD",Sony BBC Ear (4K)
-http://tv.cloudcdn.me:80/live.ts?channelId=40478&uid=12643&deviceMac=00:1A:79:03:13:DE
-
-
-
-
+http://tv.cloudcdn.me:80/live.ts?channelId=12366&uid5954&deviceMac=00:1A:79:03:13:DE
 
 
 
