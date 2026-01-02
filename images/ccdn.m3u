@@ -398,7 +398,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=62412&uid=5954&deviceMac=00:1A:79:03:
 http://tv.cloudcdn.me:80/live.ts?channelId=470&uid=5954&deviceMac=00:1A:79:03:13:DE
 
 
-#EXTINF:-1 tvg-id="132800" tvg-name="IN: Shemaroo Bollywood FHD" group-title="INDIAN",IN: Shemaroo Bollywood FHD
+#EXTINF:-1 tvg-id="132800" tvg-name="IN: Shemaroo Bollywood FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2hb7ysBL6PHcdL4L2dwVOJOW4RAH55dvatw&s"  group-title="INDIAN",IN: Shemaroo Bollywood FHD
 http://tv.cloudcdn.me:80/live.ts?channelId=132800&uid=5954&deviceMac=00:1A:79:03:13:DE
 
 #EXTINF:-1 tvg-id="196" tvg-name="IN: Star Gold FHD" tvg-logo="http://ujm.from-in.com/panel/imageicon/770f5fd.png" group-title="INDIAN",IN: Star Gold FHD
