@@ -41,11 +41,11 @@ http://tv.indigotv.me:80/live.ts?channelId=52863&uid=12643&deviceMac=00:1A:79:00
 
 
 #EXTINF:0.1tvg-id="geonews.pk" tvg-name="PK | GEO NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/GEO_News_logo_in_Urdu.png/150px-GEO_News_logo_in_Urdu.png" group-title="PAKISTAN | NEWS",PK | GEO NEWS HD
-http://delta8k.xyz:80/play/live.php?mac=00:1A:79:34:61:88&stream=437781&extension=ts&play_token=sfooy4tkX0
+http://delta8k.xyz:80/play/live.php?mac=00:1A:79:63:3C:17&stream=437781&extension=ts&play_token=ZY6RsVTo3p
 
 
 #EXTINF:0.1tvg-id="arynews.eg" tvg-name="PK | ARY News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Arynews.jpg" group-title="PAKISTAN | NEWS",PK | ARY News HD
-http://tv.indigotv.me:80/live.ts?channelId=387&deviceMac=00:1A:79:00:28:62&uid=5954
+http://tv.indigotv.me:80/live.ts?channelId=386&deviceMac=00:1A:79:00:28:62&uid=5954
 
 #EXTINF:0.1tvg-id="expressnews.pk" tvg-name="PK | Express news" tvg-logo="http://ujm.from-in.com/panel/imageicon/53e415c.png" group-title="PAKISTAN | NEWS",PK | Express news
 http://tv.indigotv.me:80/live.ts?channelId=408&deviceMac=00:1A:79:00:28:62&uid=5954
