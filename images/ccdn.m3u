@@ -2,7 +2,9 @@
 #EXT-X-VERSION:1
 #EXT-X-MEDIA-SEQUENCE:20
 #EXT-X-TARGETDURATION:100
-
+http://tv.indigotv.me/c/
+http://tv.indigotv.me:80/live.ts?channelId=371&uid=5954&deviceMac=00:1A:79:00:28:62
+http://download.best-ott.me:80|http://restream.cdn-4k.cloud/c/|http://wolftv.me:80|http://delta8k.xyz/c|http://gold.cdn-4k.cloud:80|
 
 
 
@@ -35,13 +37,15 @@ http://tv.indigotv.me:80/live.ts?channelId=239&deviceMac=00:1A:79:00:28:62&uid=5
 
 
 #EXTINF:0.1tvg-id="geonews.pk" tvg-name="PK | GEO NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/GEO_News_logo_in_Urdu.png/150px-GEO_News_logo_in_Urdu.png" group-title="PAKISTAN | NEWS",PK | GEO NEWS HD
-http://tv.indigotv.me:80/live.ts?channelId=52863&uid=12643&deviceMac=00:1A:79:00:28:62
+http://tv.indigotv.me:80/live.ts?channelId=52863&uid=414&deviceMac=00:1A:79:f5:4d:4e
+
+
 
 
 
 
 #EXTINF:0.1tvg-id="geonews.pk" tvg-name="PK | GEO NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/GEO_News_logo_in_Urdu.png/150px-GEO_News_logo_in_Urdu.png" group-title="PAKISTAN | NEWS",PK | GEO NEWS HD
-http://delta8k.xyz:80/play/live.php?mac=00:1A:79:63:3C:17&stream=437781&extension=ts&play_token=ZY6RsVTo3p
+http://delta8k.xyz:80/play/live.php?mac=00:1A:79:7b:7f:68&stream=437781&extension=ts&play_token=ZY6RsVTo3p
 
 
 #EXTINF:0.1tvg-id="arynews.eg" tvg-name="PK | ARY News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Arynews.jpg" group-title="PAKISTAN | NEWS",PK | ARY News HD
