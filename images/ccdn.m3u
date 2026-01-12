@@ -9,7 +9,6 @@
 
 
 
-
 #EXTINF:0.1 tvg-id="" tvg-name="MAKKA TV LIVE*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86_%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85.svg/1200px-%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86_%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85.svg.png" group-title=" ISLAMIC",MAKKA TV LIVE
 http://tv.indigotv.me:80/live.ts?channelId=132248&deviceMac=00:1A:79:00:07:67&uid=5954
 
@@ -521,7 +520,7 @@ http://tv.indigotv.me:80/live.ts?channelId=256&deviceMac=00:1A:79:00:07:67&uid=5
 #EXTINF:0.1tvg-id="" tvg-name="PK: Discover Pakistan" tvg-logo="http://b1g.fun/logos2/discover_pakistan.jpg" group-title="PAKISTAN | ENTERTAINMENT",PK: Discover Pakistan
 http://tv.indigotv.me:80/live.ts?channelId=33167&deviceMac=00:1A:79:00:07:67&uid=5954
 
-#EXTINF:0.1tvg-id="discoveryhd.in" tvg-name="IND: Discovery Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Discovery_HD.svg/1200px-Discovery_HD.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery
+#EXTINF:0.1tvg-id="discoveryhd.in" tvg-name="IND: Discovery Hindi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Discovery_Channel_logo.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery
 http://tv.indigotv.me:80/live.ts?channelId=4223&uid=1384&deviceMac=00:1A:79:00:07:67&uid=5954
 
 #EXTINF:0.1tvg-id="" tvg-name="IND: Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/2560px-Discovery_Science_2017_Logo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Science
