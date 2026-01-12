@@ -7,6 +7,7 @@
 
 
 
+
 #EXTINF:0.1 tvg-id="" tvg-name="MAKKA TV LIVE*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86_%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85.svg/1200px-%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86_%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85.svg.png" group-title=" ISLAMIC",MAKKA TV LIVE
 http://tv.indigotv.me:80/live.ts?channelId=132248&deviceMac=00:1A:79:00:07:67&uid=5954
 
@@ -388,10 +389,10 @@ http://tv.indigotv.me:80/live.ts?channelId=187&uid=5954&deviceMac=00:1A:79:0F:3D
 #EXTINF:-1 tvg-id="49859" tvg-name="IN: & Flix FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/%26flix_logo.png" group-title="INDIAN",IN: & Flix FHD
 http://tv.indigotv.me:80/live.ts?channelId=49859&uid=5954&deviceMac=00:1A:79:0F:3D:3C
 
-#EXTINF:-1 tvg-id="139" tvg-name="IN: & Pictures FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/%26Pictures_2025.svg/2560px-%26Pictures_2025.svg.png" group-title="INDIAN",IN: & Pictures FHD
+#EXTINF:-1 tvg-id="139" tvg-name="IN: & Pictures FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNIl4ClIXbtGxUBkT_rdNvIieOLgmIJwjPPw&s" group-title="INDIAN",IN: & Pictures FHD
 http://tv.indigotv.me:80/live.ts?channelId=139&uid=5954&deviceMac=00:1A:79:0F:3D:3C
 
-#EXTINF:-1 tvg-id="132225" tvg-name="IN: & PictureshD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/%26Pictures_2025.svg/2560px-%26Pictures_2025.svg.png" group-title="INDIAN",IN: & PictureshD
+#EXTINF:-1 tvg-id="132225" tvg-name="IN: & PictureshD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNIl4ClIXbtGxUBkT_rdNvIieOLgmIJwjPPw&s" group-title="INDIAN",IN: & PictureshD
 http://tv.indigotv.me:80/live.ts?channelId=132225&uid=5954&deviceMac=00:1A:79:0F:3D:3C
 
 #EXTINF:-1 tvg-id="170" tvg-name="IN: & Privé FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/%26Priv%C3%A9_HD_Logo_2025.png" group-title="INDIAN",IN: & Privé FHD
