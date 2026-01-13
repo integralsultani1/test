@@ -2,10 +2,6 @@
 #EXT-X-VERSION:1
 #EXT-X-MEDIA-SEQUENCE:20
 #EXT-X-TARGETDURATION:100
-http://tv.indigotv.me/c/
-http://tv.indigotv.me:80/live.ts?channelId=371&uid=5954&deviceMac=00:1A:79:00:07:67
-http://download.best-ott.me:80|http://restream.cdn-4k.cloud/c/|http://wolftv.me:80|http://delta8k.xyz/c|http://gold.cdn-4k.cloud:80|
-
 
 
 
@@ -515,7 +511,7 @@ http://filex.me:8080/live/3114654477/5787654467/495261.ts
 
 
 #EXTINF:0.1tvg-id="cartoonnetworkhd.in" tvg-name="IN: Cartoon Network" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Minimax_Pakistan_blue_logo_2023.png" group-title="INDIAN | KIDS Cartoon",MiniMax
-http://tv.indigotv.me:80/live.ts?channelId=306&deviceMac=00:1A:79:00:07:67&uid=5954
+http://filex.me:8080/live/3114654477/5787654467/246763.ts
 
 #EXTINF:0.1tvg-id="cartoonnetworkhd.in" tvg-name="IN: Cartoon Network" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/KidsZonelogo-sm.png" group-title="INDIAN | KIDS Cartoon",Kids zone
 http://filex.me:8080/live/3114654477/5787654467/246774.ts
