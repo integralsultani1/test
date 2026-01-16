@@ -436,7 +436,11 @@ http://star4k.me//play/live.php?mac=00:1A:79:73:7a:df&stream=440261&extension=ts
 http://star4k.me//play/live.php?mac=00:1A:79:73:7a:df&stream=440253&extension=ts&play_token=z14ZoCgDaR
 
 
+#EXTINF:-1 tvg-id="440435" tvg-name="HINDI: MOVIES NOW HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/MOVIES-NOW-HD.jpg" group-title="ASIA| HINDI",HINDI: MOVIES NOW HD
+http://star4k.me//play/live.php?mac=00:1A:79:73:7a:df&stream=440435&extension=ts&play_token=z14ZoCgDaR
 
+#EXTINF:-1 tvg-id="440432" tvg-name="HINDI: MNX HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/mnx_hd.png" group-title="ASIA| HINDI",HINDI: MNX HD
+http://star4k.me//play/live.php?mac=00:1A:79:73:7a:df&stream=440432&extension=ts&play_token=z14ZoCgDaR
 
 
 
@@ -555,6 +559,7 @@ http://tv.indigotv.me:80/live.ts?channelId=4212&uid=5954&deviceMac=00:1A:79:00:0
 
 #EXTINF:0.1tvg-id="" tvg-name="Sony BBC Ear (4K)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/RnzI34c.png" group-title="INDIAN | 4K ULTRA HD",Sony BBC Ear (4K)
 http://tv.indigotv.me:80/live.ts?channelId=12366&uid5954&deviceMac=00:1A:79:00:07:67
+
 
 
 
