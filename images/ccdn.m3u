@@ -6,6 +6,9 @@
 
 
 
+
+
+
 #EXTINF:0.1 tvg-id="" tvg-name="MAKKA TV LIVE*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86_%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85.svg/1200px-%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86_%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85.svg.png" group-title=" ISLAMIC",MAKKA TV LIVE
 http://tv.indigotv.me:80/live.ts?channelId=132248&deviceMac=00:1A:79:00:07:67&uid=5954
 
@@ -45,7 +48,7 @@ http://filex.me:8080/live/3114654477/5787654467/52040.ts
 #EXTINF:0.1tvg-id="arynews.eg" tvg-name="PK | ARY News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Arynews.jpg" group-title="PAKISTAN | NEWS",PK | ARY News HD
 http://tv.indigotv.me:80/live.ts?channelId=386&deviceMac=00:1A:79:00:07:67&uid=5954
 
-#EXTINF:0.1tvg-id="expressnews.pk" tvg-name="PK | Express news" tvg-logo="http://ujm.from-in.com/panel/imageicon/53e415c.png" group-title="PAKISTAN | NEWS",PK | Express news
+#EXTINF:0.1tvg-id="expressnews.pk" tvg-name="PK | Express news" tvg-logo="https://www.lyngsat.com/logo/tv/ee/express-news-pk.png" group-title="PAKISTAN | NEWS",PK | Express news
 http://tv.indigotv.me:80/live.ts?channelId=408&deviceMac=00:1A:79:00:07:67&uid=5954
 
 #EXTINF:0.1tvg-id="92news.pk" tvg-name="PK | 92 News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png" group-title="PAKISTAN | NEWS",PK | 92 News
@@ -237,7 +240,7 @@ http://tv.indigotv.me:80/live.ts?channelId=144&deviceMac=00:1A:79:00:07:67&uid=5
 http://tv.indigotv.me:80/live.ts?channelId=163&deviceMac=00:1A:79:00:07:67&uid=5954
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="news18urdu.in" tvg-name="IN-NEWS | D2H NEWS18 URDU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/News18_Urdu_logo.png" group-title="IN | News",IN-NEWS | D2H NEWS18 URDU
-http://tv.indigotv.me:80/live.ts?channelId=61901&deviceMac=00:1A:79:00:07:67&uid=5954
+http://tv.indigotv.me:80/live.ts?channelId=132558&deviceMac=00:1A:79:00:07:67&uid=5954
 
 #EXTINF:-1 tvg-id="126084" tvg-name="IN: Republic Bharat" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/R.Bharat.png" group-title="INDIAN",IN: Republic Bharat
 http://tv.indigotv.me:80/live.ts?channelId=126084&uid=5954&deviceMac=00:1A:79:00:07:67
@@ -249,7 +252,7 @@ http://tv.indigotv.me:80/live.ts?channelId=83&deviceMac=00:1A:79:00:07:67&uid=59
 
 
 
-#EXTINF:0.1tvg-id="" tvg-name="PK | Bol Entertainment HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bol-entertainment-pk.png" group-title="PAKISTAN | ENTERTAINMENT",PK | Bol Entertainment HD
+#EXTINF:0.1tvg-id="" tvg-name="PK | Bol Entertainment HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bol_news_pk.png" group-title="PAKISTAN | ENTERTAINMENT",PK | Bol Entertainment HD
 http://tv.indigotv.me:80/live.ts?channelId=396&deviceMac=00:1A:79:00:07:67&uid=5954
 
 
@@ -357,27 +360,28 @@ http://tv.indigotv.me:80/live.ts?channelId=57490&deviceMac=00:1A:79:00:07:67&uid
 
 
 
+
 #EXTINF:0.1tvg-id="" tvg-name="Sony Sab" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/SONY_SAB_SD.png" group-title="PAKISTAN | ENTERTAINMENT",Sony Sab
-http://tv.indigotv.me:80/live.ts?channelId=191&deviceMac=00:1A:79:0F:3D:3C&uid=5954
+http://star4k.me//play/live.php?mac=00:1A:79:73:7a:df&stream=440279&extension=ts&play_token=z14ZoCgDaR
 
 #EXTINF:-1 tvg-id="183" tvg-name="IN: Sony Max 2 FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/Sony-max-2-in.png" group-title="INDIAN",IN: Sony Max 2 FHD
-http://tv.indigotv.me:80/live.ts?channelId=183&uid=742&deviceMac=00:1A:79:0F:3D:3C
+http://star4k.me//play/live.php?mac=00:1A:79:73:7a:df&stream=440274&extension=ts&play_token=z14ZoCgDaR
 
 #EXTINF:-1 tvg-id="184" tvg-name="IN: Sony Max FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/Sony_Max_HD_2022.png" group-title="INDIAN",IN: Sony Max FHD
-http://tv.indigotv.me:80/live.ts?channelId=185&uid=742&deviceMac=00:1A:79:0F:3D:3C
+http://star4k.me//play/live.php?mac=00:1A:79:73:7a:df&stream=1015334&extension=ts&play_token=z14ZoCgDaR
+
 
 #EXTINF:-1 tvg-id="188" tvg-name="IN: Sony Pal FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/SONY_PAL_LOGO.png" group-title="INDIAN",IN: Sony Pal FHD
-http://tv.indigotv.me:80/live.ts?channelId=188&uid=5954&deviceMac=00:1A:79:0F:3D:3C
+http://hottest.vip:80//play/live.php?mac=00:1A:79:96:37:85&stream=440283&extension=ts&play_token=z14ZoCgDaR
 
 
 
 #EXTINF:-1 tvg-id="193" tvg-name="IN: Sony TV FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/SET-LOGO-HD.png" group-title="INDIAN",IN: Sony TV FHD
-http://tv.indigotv.me:80/live.ts?channelId=12356&uid=742&deviceMac=00:1A:79:0F:3D:3C
+http://star4k.me//play/live.php?mac=00:1A:79:73:7a:df&stream=440272&extension=ts&play_token=z14ZoCgDaR
 
 
 #EXTINF:-1 tvg-id="187" tvg-name="IN: Sony Wah FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/31/Sony_WAH.png" group-title="INDIAN",IN: Sony Wah FHD
-http://tv.indigotv.me:80/live.ts?channelId=187&uid=5954&deviceMac=00:1A:79:0F:3D:3C
-
+http://star4k.me//play/live.php?mac=00:1A:79:73:7a:df&stream=440284&extension=ts&play_token=z14ZoCgDaR
 
 
 
@@ -385,37 +389,51 @@ http://tv.indigotv.me:80/live.ts?channelId=187&uid=5954&deviceMac=00:1A:79:0F:3D
 
 
 #EXTINF:-1 tvg-id="49859" tvg-name="IN: & Flix FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/%26flix_logo.png" group-title="INDIAN",IN: & Flix FHD
-http://tv.indigotv.me:80/live.ts?channelId=49859&uid=5954&deviceMac=00:1A:79:0F:3D:3C
+http://star4k.me//play/live.php?mac=00:1A:79:73:7a:df&stream=440347&extension=ts&play_token=z14ZoCgDaR
 
 #EXTINF:-1 tvg-id="139" tvg-name="IN: & Pictures FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNIl4ClIXbtGxUBkT_rdNvIieOLgmIJwjPPw&s" group-title="INDIAN",IN: & Pictures FHD
-http://tv.indigotv.me:80/live.ts?channelId=139&uid=5954&deviceMac=00:1A:79:0F:3D:3C
+http://star4k.me//play/live.php?mac=00:1A:79:73:7a:df&stream=440349&extension=ts&play_token=z14ZoCgDaR
 
-#EXTINF:-1 tvg-id="132225" tvg-name="IN: & PictureshD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNIl4ClIXbtGxUBkT_rdNvIieOLgmIJwjPPw&s" group-title="INDIAN",IN: & PictureshD
-http://tv.indigotv.me:80/live.ts?channelId=132225&uid=5954&deviceMac=00:1A:79:0F:3D:3C
+#EXTINF:-1 tvg-id="132225" tvg-name="IN: & PictureshD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNIl4ClIXbtGxUBkT_rdNvIieOLgmIJwjPPw&s" group-title="INDIAN",IN: & Pictureshd
+http://star4k.me//play/live.php?mac=00:1A:79:73:7a:df&stream=440348&extension=ts&play_token=z14ZoCgDaR
 
 #EXTINF:-1 tvg-id="170" tvg-name="IN: & Privé FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/%26Priv%C3%A9_HD_Logo_2025.png" group-title="INDIAN",IN: & Privé FHD
-http://tv.indigotv.me:80/live.ts?channelId=170&uid=5954&deviceMac=00:1A:79:0F:3D:3C
+http://star4k.me//play/live.php?mac=00:1A:79:73:7a:df&stream=441190&extension=ts&play_token=z14ZoCgDaR
 
 
 #EXTINF:-1 tvg-id="152" tvg-name="IN: B4U Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png" group-title="INDIAN",IN: B4U Movies
-http://tv.indigotv.me:80/live.ts?channelId=152&uid=5954&deviceMac=00:1A:79:00:07:67
+http://star4k.me//play/live.php?mac=00:1A:79:73:7a:df&stream=440286&extension=ts&play_token=z14ZoCgDaR
+
+
 
 #EXTINF:-1 tvg-id="62412" tvg-name="IN: Colors Cineplex BollywoodhD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/Colors_Cineplex_Bollywood.jpg" group-title="INDIAN",IN: Colors Cineplex BollywoodhD
-http://tv.indigotv.me:80/live.ts?channelId=62412&uid=5954&deviceMac=00:1A:79:0F:3D:3C
+http://star4k.me//play/live.php?mac=00:1A:79:73:7a:df&stream=440357&extension=ts&play_token=z14ZoCgDaR
 
-#EXTINF:-1 tvg-id="470" tvg-name="IN: Colors Cineplex FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Colors_Cineplex.png" group-title="INDIAN",IN: Colors Cineplex FHD
-http://tv.indigotv.me:80/live.ts?channelId=470&uid=5954&deviceMac=00:1A:79:0F:3D:3C
+#EXTINF:-1 tvg-id="470" tvg-name="IN: Colors Cineplex FHD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tata-play-bollywood-premiere-in.png" group-title="INDIAN",IN: TataPlay Bollywood Premiere
+http://star4k.me//play/live.php?mac=00:1A:79:73:7a:df&stream=440468&extension=ts&play_token=z14ZoCgDaR
 
 
-#EXTINF:-1 tvg-id="132800" tvg-name="IN: Shemaroo Bollywood FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Bdcf46991a900868.jpg"  group-title="INDIAN",IN: Shemaroo Bollywood FHD
-http://tv.indigotv.me:80/live.ts?channelId=132800&uid=5954&deviceMac=00:1A:79:0F:3D:3C
+#EXTINF:-1 tvg-id="132800" tvg-name="IN: Shemaroo Bollywood FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Bdcf46991a900868.jpg"  group-title="INDIAN",IN: Shemaroo Bollywood FHD 1
+http://star4k.me//play/live.php?mac=00:1A:79:73:7a:df&stream=1629562&extension=ts&play_token=z14ZoCgDaR
+
+#EXTINF:-1 tvg-id="132800" tvg-name="IN: Shemaroo Bollywood FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Bdcf46991a900868.jpg"  group-title="INDIAN",IN: Shemaroo Bollywood FHD 2
+http://star4k.me//play/live.php?mac=00:1A:79:73:7a:df&stream=1629529&extension=ts&play_token=z14ZoCgDaR
+
+
+#EXTINF:-1 tvg-id="132800" tvg-name="IN: Shemaroo Bollywood FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Bdcf46991a900868.jpg"  group-title="INDIAN",IN: Shemaroo Bollywood FHD 3
+http://star4k.me//play/live.php?mac=00:1A:79:73:7a:df&stream=1629662&extension=ts&play_token=z14ZoCgDaR
+
+#EXTINF:-1 tvg-id="132800" tvg-name="IN: Shemaroo Bollywood FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Bdcf46991a900868.jpg"  group-title="INDIAN",IN: Shemaroo Bollywood FHD 4
+http://star4k.me//play/live.php?mac=00:1A:79:73:7a:df&stream=1629746&extension=ts&play_token=z14ZoCgDaR
+
+
 
 #EXTINF:-1 tvg-id="196" tvg-name="IN: Star Gold FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Star_Gold_HD_2011.png" group-title="INDIAN",IN: Star Gold FHD
-http://tv.indigotv.me:80/live.ts?channelId=196&uid=5954&deviceMac=00:1A:79:0F:3D:3C
+http://star4k.me//play/live.php?mac=00:1A:79:73:7a:df&stream=440261&extension=ts&play_token=z14ZoCgDaR
 
-#EXTINF:-1 tvg-id="207" tvg-name="IN: Zee Action" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="INDIAN",IN: Zee Action
-http://tv.indigotv.me:80/live.ts?channelId=207&uid=5954&deviceMac=00:1A:79:0F:3D:3C
 
+#EXTINF:-1 tvg-id="207" tvg-name="IN: Zee Action" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="INDIAN",IN: Zee Cinema
+http://star4k.me//play/live.php?mac=00:1A:79:73:7a:df&stream=440253&extension=ts&play_token=z14ZoCgDaR
 
 
 
@@ -425,23 +443,22 @@ http://tv.indigotv.me:80/live.ts?channelId=207&uid=5954&deviceMac=00:1A:79:0F:3D
 
 
 #EXTINF:-1 tvg-id="189" tvg-name="IN: Sony Pix FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/SONY_PIX_SD.png" group-title="INDIAN",IN: Sony Pix FHD
-http://tv.indigotv.me:80/live.ts?channelId=189&uid=5954&deviceMac=00:1A:79:0F:3D:3C
+http://star4k.me//play/live.php?mac=00:1A:79:73:7a:df&stream=441205&extension=ts&play_token=z14ZoCgDaR
 
-
-
-#EXTINF:0.1tvg-id="" tvg-name="star movies" tvg-logo="https://multireach.in/wp-content/uploads/2023/04/STAR-MOVIES-HD.jpg" group-title="PAKISTAN | ENTERTAINMENT",Star Movies 
-http://tv.indigotv.me:80/live.ts?channelId=198&uid=12643&deviceMac=00:1A:79:0F:3D:3C
+#EXTINF:0.1tvg-id="" tvg-name="star movies" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/starmovies.png" group-title="PAKISTAN | ENTERTAINMENT",Star Movies
+http://star4k.me//play/live.php?mac=00:1A:79:73:7a:df&stream=441216&extension=ts&play_token=z14ZoCgDaR
 
 
 #EXTINF:0.1tvg-id="" tvg-name="star movies" tvg-logo="https://www.animationxpress.com/wp-content/uploads/2021/04/starmovies-hd-lg.jpg" group-title="PAKISTAN | ENTERTAINMENT",Star Movies Select
-http://tv.indigotv.me:80/live.ts?channelId=199&uid=12643&deviceMac=00:1A:79:0F:3D:3C
+http://star4k.me//play/live.php?mac=00:1A:79:73:7a:df&stream=441215&extension=ts&play_token=z14ZoCgDaR
 
 
-#EXTINF:0.1tvg-id="" tvg-name="Hbo" tvg-logo="https://cdn.freebiesupply.com/images/large/2x/hbo-logo-black-and-white.png" group-title="PAKISTAN | ENTERTAINMENT",HBO
-http://tv.indigotv.me:80/live.ts?channelId=49858&uid=12643&deviceMac=00:1A:79:0F:3D:3C
+#EXTINF:0.1tvg-id="" tvg-name="Hbo" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/e88f2f1db154d1e7555f9cbd99f38fcc.png" group-title="PAKISTAN | ENTERTAINMENT",HBO
+http://star4k.me//play/live.php?mac=00:1A:79:73:7a:df&stream=325973&extension=ts&play_token=z14ZoCgDaR
+
 
 #EXTINF:-1 tvg-id="483" tvg-name="UK: Sky Cinema Premiere" tvg-logo="https://cdn.skymedia.co.uk/wp-content/uploads/2020/06/SKY-CINEMA-PREMIERE-June-2020.png" group-title="UNITED KINGDOM",UK: Sky Cinema Premiere
-http://tv.indigotv.me:80/live.ts?channelId=483&uid=5954&deviceMac=00:1A:79:0F:3D:3C
+http://star4k.me//play/live.php?mac=00:1A:79:73:7a:df&stream=639200&extension=ts&play_token=z14ZoCgDaR
 
 
 
@@ -490,14 +507,13 @@ http://tv.indigotv.me:80/live.ts?channelId=270&uid=1384&deviceMac=00:1A:79:00:07
 
 
 #EXTINF:0.1tvg-id="cartoonnetworkhd.in" tvg-name="IN: Cartoon Network" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Minimax_Pakistan_blue_logo_2023.png" group-title="INDIAN | KIDS Cartoon",MiniMax
-http://tv.indigotv.me:80/live.ts?channelId=306&deviceMac=00:1A:79:00:07:67&uid=5954
+http://filex.me:8080/live/3114654477/5787654467/246763.ts
 
 #EXTINF:0.1tvg-id="cartoonnetworkhd.in" tvg-name="IN: Cartoon Network" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/KidsZonelogo-sm.png" group-title="INDIAN | KIDS Cartoon",Kids zone
 http://tv.indigotv.me:80/live.ts?channelId=19754&deviceMac=00:1A:79:00:07:67&uid=5954
 
 #EXTINF:0.1tvg-id="cartoonnetworkhd.in" tvg-name="IN: Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2000px-Cartoon_Network_2010_logo.svg.png" group-title="INDIAN | KIDS Cartoon",IN: Cartoon Network
 http://filex.me:8080/live/3114654477/5787654467/499702.ts
-http://tv.indigotv.me:80/live.ts?channelId=244&deviceMac=00:1A:79:00:07:67&uid=5954
 
 #EXTINF:0.1tvg-id="cartoonnetworkhd.in1" tvg-name="IN: Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2000px-Cartoon_Network_2010_logo.svg.png" group-title="INDIAN | KIDS Cartoon",IN: Cartoon Network 1
 http://tv.indigotv.me:80/live.ts?channelId=246&uid=5954&deviceMac=00:1A:79:00:07:67
@@ -528,16 +544,16 @@ http://tv.indigotv.me:80/live.ts?channelId=4223&uid=1384&deviceMac=00:1A:79:00:0
 #EXTINF:0.1tvg-id="" tvg-name="IND: Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/2560px-Discovery_Science_2017_Logo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Science
 http://tv.indigotv.me:80/live.ts?channelId=25891&uid=5954&deviceMac=00:1A:79:00:07:67&uid=5954
 
-#EXTINF:0.1tvg-id="0" tvg-name="Af | DSTV: National Geographic HD *" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="DSTV | DOCUMENTARY",Af | DSTV: National Geographic HD *
+#EXTINF:0.1tvg-id="0" tvg-name="Af | DSTV: National Geographic HD *" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjIg2pKmm1yRKRdVSQg9tckQP_3hU59Ma_mQ&s" group-title="DSTV | DOCUMENTARY",Af | DSTV: National Geographic HD *
 http://tv.indigotv.me:80/live.ts?channelId=125057&deviceMac=00:1A:79:00:07:67&uid=5954
 
-#EXTINF:0.1tvg-id="0" tvg-name="Af | DSTV: National Geographic WILD HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png" group-title="DSTV | DOCUMENTARY",Af | DSTV: National Geographic WILD HD*
+#EXTINF:0.1tvg-id="0" tvg-name="Af | DSTV: National Geographic WILD HD*" tvg-logo="https://i.pinimg.com/564x/37/b7/ab/37b7abb18ff109f9ebdd31f7b0f114fe.jpg" group-title="DSTV | DOCUMENTARY",Af | DSTV: National Geographic WILD HD*
 http://tv.indigotv.me:80/live.ts?channelId=177&deviceMac=00:1A:79:00:07:67&uid=5954
 
-#EXTINF:0.1tvg-id="" tvg-name="IN: Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="INDIAN ALL",IN: Animal Planet
+#EXTINF:0.1tvg-id="" tvg-name="IN: Animal Planet" tvg-logo="https://images.seeklogo.com/logo-png/61/1/animal-planet-logo-png_seeklogo-616978.png" group-title="INDIAN ALL",IN: Animal Planet
 http://tv.indigotv.me:80/live.ts?channelId=4212&uid=5954&deviceMac=00:1A:79:00:07:67&uid=5954
 
-#EXTINF:0.1tvg-id="" tvg-name="Sony BBC Ear (4K)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/RnzI34c.png/" group-title="INDIAN | 4K ULTRA HD",Sony BBC Ear (4K)
+#EXTINF:0.1tvg-id="" tvg-name="Sony BBC Ear (4K)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/RnzI34c.png" group-title="INDIAN | 4K ULTRA HD",Sony BBC Ear (4K)
 http://tv.indigotv.me:80/live.ts?channelId=12366&uid5954&deviceMac=00:1A:79:00:07:67
 
 
