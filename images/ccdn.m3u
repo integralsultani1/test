@@ -362,26 +362,28 @@ http://tv.indigotv.me:80/live.ts?channelId=57490&deviceMac=00:1A:79:00:07:67&uid
 
 
 #EXTINF:0.1tvg-id="" tvg-name="Sony Sab" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/SONY_SAB_SD.png" group-title="PAKISTAN | ENTERTAINMENT",Sony Sab
-http://star4k.me//play/live.php?mac=00:1A:79:73:7a:df&stream=440279&extension=ts&play_token=z14ZoCgDaR
+http://star4k.me//play/live.php?mac=00:1A:79:6e:71:8c&stream=440279&extension=ts&play_token=z14ZoCgDaR
+
 
 #EXTINF:-1 tvg-id="183" tvg-name="IN: Sony Max 2 FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/Sony-max-2-in.png" group-title="INDIAN",IN: Sony Max 2 FHD
-http://star4k.me//play/live.php?mac=00:1A:79:73:7a:df&stream=440274&extension=ts&play_token=z14ZoCgDaR
+http://star4k.me//play/live.php?mac=00:1A:79:6e:71:8c&stream=440274&extension=ts&play_token=z14ZoCgDaR
 
 #EXTINF:-1 tvg-id="184" tvg-name="IN: Sony Max FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/Sony_Max_HD_2022.png" group-title="INDIAN",IN: Sony Max FHD
-http://star4k.me//play/live.php?mac=00:1A:79:73:7a:df&stream=1015334&extension=ts&play_token=z14ZoCgDaR
+http://star4k.me//play/live.php?mac=00:1A:79:6e:71:8c&stream=1015334&extension=ts&play_token=z14ZoCgDaR
 
 
 #EXTINF:-1 tvg-id="188" tvg-name="IN: Sony Pal FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/SONY_PAL_LOGO.png" group-title="INDIAN",IN: Sony Pal FHD
-http://hottest.vip:80//play/live.php?mac=00:1A:79:96:37:85&stream=440283&extension=ts&play_token=z14ZoCgDaR
+http://star4k.me//play/live.php?mac=00:1A:79:6e:71:8c&stream=440283&extension=ts&play_token=z14ZoCgDaR
 
 
 
 #EXTINF:-1 tvg-id="193" tvg-name="IN: Sony TV FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/SET-LOGO-HD.png" group-title="INDIAN",IN: Sony TV FHD
-http://star4k.me//play/live.php?mac=00:1A:79:73:7a:df&stream=440272&extension=ts&play_token=z14ZoCgDaR
+http://star4k.me//play/live.php?mac=00:1A:79:6e:71:8c&stream=440272&extension=ts&play_token=z14ZoCgDaR
 
 
 #EXTINF:-1 tvg-id="187" tvg-name="IN: Sony Wah FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/31/Sony_WAH.png" group-title="INDIAN",IN: Sony Wah FHD
-http://star4k.me//play/live.php?mac=00:1A:79:73:7a:df&stream=440284&extension=ts&play_token=z14ZoCgDaR
+http://star4k.me//play/live.php?mac=00:1A:79:6e:71:8c&stream=440284&extension=ts&play_token=z14ZoCgDaR
+
 
 
 
@@ -389,80 +391,84 @@ http://star4k.me//play/live.php?mac=00:1A:79:73:7a:df&stream=440284&extension=ts
 
 
 #EXTINF:-1 tvg-id="49859" tvg-name="IN: & Flix FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/%26flix_logo.png" group-title="INDIAN",IN: & Flix FHD
-http://star4k.me//play/live.php?mac=00:1A:79:73:7a:df&stream=440347&extension=ts&play_token=z14ZoCgDaR
+http://star4k.me//play/live.php?mac=00:1A:79:6e:71:8c&stream=440347&extension=ts&play_token=z14ZoCgDaR
 
 #EXTINF:-1 tvg-id="139" tvg-name="IN: & Pictures FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNIl4ClIXbtGxUBkT_rdNvIieOLgmIJwjPPw&s" group-title="INDIAN",IN: & Pictures FHD
-http://star4k.me//play/live.php?mac=00:1A:79:73:7a:df&stream=440349&extension=ts&play_token=z14ZoCgDaR
+http://star4k.me//play/live.php?mac=00:1A:79:6e:71:8c&stream=440349&extension=ts&play_token=z14ZoCgDaR
 
 #EXTINF:-1 tvg-id="132225" tvg-name="IN: & PictureshD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNIl4ClIXbtGxUBkT_rdNvIieOLgmIJwjPPw&s" group-title="INDIAN",IN: & Pictureshd
-http://star4k.me//play/live.php?mac=00:1A:79:73:7a:df&stream=440348&extension=ts&play_token=z14ZoCgDaR
+http://star4k.me//play/live.php?mac=00:1A:79:6e:71:8c&stream=440348&extension=ts&play_token=z14ZoCgDaR
 
 #EXTINF:-1 tvg-id="170" tvg-name="IN: & Privé FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/%26Priv%C3%A9_HD_Logo_2025.png" group-title="INDIAN",IN: & Privé FHD
-http://star4k.me//play/live.php?mac=00:1A:79:73:7a:df&stream=441190&extension=ts&play_token=z14ZoCgDaR
+http://star4k.me//play/live.php?mac=00:1A:79:6e:71:8c&stream=441190&extension=ts&play_token=z14ZoCgDaR
 
 
 #EXTINF:-1 tvg-id="152" tvg-name="IN: B4U Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png" group-title="INDIAN",IN: B4U Movies
-http://star4k.me//play/live.php?mac=00:1A:79:73:7a:df&stream=440286&extension=ts&play_token=z14ZoCgDaR
+http://star4k.me//play/live.php?mac=00:1A:79:6e:71:8c&stream=440286&extension=ts&play_token=z14ZoCgDaR
 
 
 
 #EXTINF:-1 tvg-id="62412" tvg-name="IN: Colors Cineplex BollywoodhD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/Colors_Cineplex_Bollywood.jpg" group-title="INDIAN",IN: Colors Cineplex BollywoodhD
-http://star4k.me//play/live.php?mac=00:1A:79:73:7a:df&stream=440357&extension=ts&play_token=z14ZoCgDaR
+http://star4k.me//play/live.php?mac=00:1A:79:6e:71:8c&stream=440357&extension=ts&play_token=z14ZoCgDaR
 
 #EXTINF:-1 tvg-id="470" tvg-name="IN: Colors Cineplex FHD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tata-play-bollywood-premiere-in.png" group-title="INDIAN",IN: TataPlay Bollywood Premiere
-http://star4k.me//play/live.php?mac=00:1A:79:73:7a:df&stream=440468&extension=ts&play_token=z14ZoCgDaR
+http://star4k.me//play/live.php?mac=00:1A:79:6e:71:8c&stream=440468&extension=ts&play_token=z14ZoCgDaR
 
 
-#EXTINF:-1 tvg-id="132800" tvg-name="IN: Shemaroo Bollywood FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Bdcf46991a900868.jpg"  group-title="INDIAN",IN: Shemaroo Bollywood FHD 1
-http://star4k.me//play/live.php?mac=00:1A:79:73:7a:df&stream=1629562&extension=ts&play_token=z14ZoCgDaR
+#EXTINF:-1 tvg-id="1629746" tvg-name="IN-PREM: ACTION COMEDY CINEMA 1 HD" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="ASIA| 24/7 INDIA",IN-PREM: IN: Shemaroo Bollywood FHD 1
+http://star4k.me//play/live.php?mac=00:1A:79:6e:71:8c&stream=1629562&extension=ts&play_token=z14ZoCgDaR
 
-#EXTINF:-1 tvg-id="132800" tvg-name="IN: Shemaroo Bollywood FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Bdcf46991a900868.jpg"  group-title="INDIAN",IN: Shemaroo Bollywood FHD 2
-http://star4k.me//play/live.php?mac=00:1A:79:73:7a:df&stream=1629529&extension=ts&play_token=z14ZoCgDaR
+#EXTINF:-1 tvg-id="1629746" tvg-name="IN-PREM: ACTION COMEDY CINEMA 1 HD" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="ASIA| 24/7 INDIA",IN-PREM: IN: Shemaroo Bollywood FHD 1
+http://star4k.me//play/live.php?mac=00:1A:79:6e:71:8c&stream=1629529&extension=ts&play_token=z14ZoCgDaR
 
 
-#EXTINF:-1 tvg-id="132800" tvg-name="IN: Shemaroo Bollywood FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Bdcf46991a900868.jpg"  group-title="INDIAN",IN: Shemaroo Bollywood FHD 3
-http://star4k.me//play/live.php?mac=00:1A:79:73:7a:df&stream=1629662&extension=ts&play_token=z14ZoCgDaR
+#EXTINF:-1 tvg-id="1629746" tvg-name="IN-PREM: ACTION COMEDY CINEMA 1 HD" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="ASIA| 24/7 INDIA",IN-PREM: IN: Shemaroo Bollywood FHD 1
+http://star4k.me//play/live.php?mac=00:1A:79:6e:71:8c&stream=1629662&extension=ts&play_token=z14ZoCgDaR
 
-#EXTINF:-1 tvg-id="132800" tvg-name="IN: Shemaroo Bollywood FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Bdcf46991a900868.jpg"  group-title="INDIAN",IN: Shemaroo Bollywood FHD 4
-http://star4k.me//play/live.php?mac=00:1A:79:73:7a:df&stream=1629746&extension=ts&play_token=z14ZoCgDaR
+#EXTINF:-1 tvg-id="1629746" tvg-name="IN-PREM: ACTION COMEDY CINEMA 1 HD" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="ASIA| 24/7 INDIA",IN-PREM: IN: Shemaroo Bollywood FHD 1
+http://star4k.me//play/live.php?mac=00:1A:79:6e:71:8c&stream=1629746&extension=ts&play_token=z14ZoCgDaR
 
 
 
 #EXTINF:-1 tvg-id="196" tvg-name="IN: Star Gold FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Star_Gold_HD_2011.png" group-title="INDIAN",IN: Star Gold FHD
-http://star4k.me//play/live.php?mac=00:1A:79:73:7a:df&stream=440261&extension=ts&play_token=z14ZoCgDaR
+http://star4k.me//play/live.php?mac=00:1A:79:6e:71:8c&stream=440261&extension=ts&play_token=z14ZoCgDaR
 
 
 #EXTINF:-1 tvg-id="207" tvg-name="IN: Zee Action" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="INDIAN",IN: Zee Cinema
-http://star4k.me//play/live.php?mac=00:1A:79:73:7a:df&stream=440253&extension=ts&play_token=z14ZoCgDaR
+http://star4k.me//play/live.php?mac=00:1A:79:6e:71:8c&stream=440253&extension=ts&play_token=z14ZoCgDaR
+
+#EXTINF:-1 tvg-id="440429" tvg-name="HINDI: MINIPLEX HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/miniplex.png" group-title="ASIA| HINDI",HINDI: MINIPLEX HD
+http://star4k.me//play/live.php?mac=00:1A:79:6e:71:8c&stream=440429&extension=ts&play_token=z14ZoCgDaR
+
+
+
 
 
 #EXTINF:-1 tvg-id="440435" tvg-name="HINDI: MOVIES NOW HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/MOVIES-NOW-HD.jpg" group-title="ASIA| HINDI",HINDI: MOVIES NOW HD
-http://star4k.me//play/live.php?mac=00:1A:79:73:7a:df&stream=440435&extension=ts&play_token=z14ZoCgDaR
+http://star4k.me//play/live.php?mac=00:1A:79:6e:71:8c&stream=440435&extension=ts&play_token=z14ZoCgDaR
 
 #EXTINF:-1 tvg-id="440432" tvg-name="HINDI: MNX HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/mnx_hd.png" group-title="ASIA| HINDI",HINDI: MNX HD
-http://star4k.me//play/live.php?mac=00:1A:79:73:7a:df&stream=440432&extension=ts&play_token=z14ZoCgDaR
-
-
-
+http://star4k.me//play/live.php?mac=00:1A:79:6e:71:8c&stream=440432&extension=ts&play_token=z14ZoCgDaR
 
 
 #EXTINF:-1 tvg-id="189" tvg-name="IN: Sony Pix FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/SONY_PIX_SD.png" group-title="INDIAN",IN: Sony Pix FHD
-http://star4k.me//play/live.php?mac=00:1A:79:73:7a:df&stream=441205&extension=ts&play_token=z14ZoCgDaR
+http://star4k.me//play/live.php?mac=00:1A:79:6e:71:8c&stream=441205&extension=ts&play_token=z14ZoCgDaR
+
 
 #EXTINF:0.1tvg-id="" tvg-name="star movies" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/starmovies.png" group-title="PAKISTAN | ENTERTAINMENT",Star Movies
-http://star4k.me//play/live.php?mac=00:1A:79:73:7a:df&stream=441216&extension=ts&play_token=z14ZoCgDaR
+http://star4k.me//play/live.php?mac=00:1A:79:6e:71:8c&stream=441216&extension=ts&play_token=z14ZoCgDaR
 
 
 #EXTINF:0.1tvg-id="" tvg-name="star movies" tvg-logo="https://www.animationxpress.com/wp-content/uploads/2021/04/starmovies-hd-lg.jpg" group-title="PAKISTAN | ENTERTAINMENT",Star Movies Select
-http://star4k.me//play/live.php?mac=00:1A:79:73:7a:df&stream=441215&extension=ts&play_token=z14ZoCgDaR
+http://star4k.me//play/live.php?mac=00:1A:79:6e:71:8c&stream=441215&extension=ts&play_token=z14ZoCgDaR
 
 
 #EXTINF:0.1tvg-id="" tvg-name="Hbo" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/e88f2f1db154d1e7555f9cbd99f38fcc.png" group-title="PAKISTAN | ENTERTAINMENT",HBO
-http://star4k.me//play/live.php?mac=00:1A:79:73:7a:df&stream=325973&extension=ts&play_token=z14ZoCgDaR
+http://star4k.me//play/live.php?mac=00:1A:79:6e:71:8c&stream=325973&extension=ts&play_token=z14ZoCgDaR
 
 
 #EXTINF:-1 tvg-id="483" tvg-name="UK: Sky Cinema Premiere" tvg-logo="https://cdn.skymedia.co.uk/wp-content/uploads/2020/06/SKY-CINEMA-PREMIERE-June-2020.png" group-title="UNITED KINGDOM",UK: Sky Cinema Premiere
-http://star4k.me//play/live.php?mac=00:1A:79:73:7a:df&stream=639200&extension=ts&play_token=z14ZoCgDaR
+http://star4k.me//play/live.php?mac=00:1A:79:6e:71:8c&stream=639200&extension=ts&play_token=z14ZoCgDaR
 
 
 
@@ -559,7 +565,6 @@ http://tv.indigotv.me:80/live.ts?channelId=4212&uid=5954&deviceMac=00:1A:79:00:0
 
 #EXTINF:0.1tvg-id="" tvg-name="Sony BBC Ear (4K)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/RnzI34c.png" group-title="INDIAN | 4K ULTRA HD",Sony BBC Ear (4K)
 http://tv.indigotv.me:80/live.ts?channelId=12366&uid5954&deviceMac=00:1A:79:00:07:67
-
 
 
 
