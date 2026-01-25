@@ -181,7 +181,7 @@ http://tv.indigotv.me:80/live.ts?channelId=32496&deviceMac=00:1A:79:00:04:31&uid
 
 
 
-#EXTINF:0.1 tvg-id="BBC NEWS HD.uk"  x-tvg-url="https://www.open-epg.com/files/unitedkingdom4.xml.gz" tvg-name="Af | DSTV: BBC World News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/BBC_News_%282008%29.svg/2560px-BBC_News_%282008%29.svg.png" group-title="DSTV | NEWS",Af | BBC News
+#EXTINF:0.1 tvg-id="BBC NEWS HD.uk"  tvg-name="Af | DSTV: BBC World News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/BBC_News_%282008%29.svg/2560px-BBC_News_%282008%29.svg.png" group-title="DSTV | NEWS",Af | BBC News
 http://delta8k.xyz:80/play/live.php?mac=00:1A:79:B1:51:BB&stream=717702&extension=ts&play_token=I2SCCuR5y7
 
 
