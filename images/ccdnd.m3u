@@ -2,6 +2,7 @@
 #EXT-X-VERSION:1
 #EXT-X-MEDIA-SEQUENCE:20
 #EXT-X-TARGETDURATION:100
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/unitedkingdom4.xml.gz"
 http://tv.indigotv.me/c/
 http://tv.indigotv.me:80/live.ts?channelId=371&uid=5954&deviceMac=00:1A:79:0F:3D:3C
 http://download.best-ott.me:80|http://restream.cdn-4k.cloud/c/|http://wolftv.me:80|http://delta8k.xyz/c|http://gold.cdn-4k.cloud:80|
