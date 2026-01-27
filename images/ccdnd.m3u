@@ -44,10 +44,10 @@ http://tv.indigotv.me:80/live.ts?channelId=52863&uid=414&deviceMac=00:1A:79:1A:5
 http://filex.me:8080/live/3114654477/5787654467/52040.ts
 
 
-#EXTINF:0.1tvg-id="arynews.pk" tvg-name="PK | ARY News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Arynews.jpg" group-title="PAKISTAN | NEWS",PK | ARY News HD
+#EXTINF:0.1tvg-id="ATN.ARY.News.dk" tvg-name="PK | ARY News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Arynews.jpg" group-title="PAKISTAN | NEWS",PK | ARY News HD
 http://tv.indigotv.me:80/live.ts?channelId=386&deviceMac=00:1A:79:00:04:31&uid=5954
 
-#EXTINF:0.1tvg-id="expressnews.pk" tvg-name="PK | Express news" tvg-logo="https://www.lyngsat.com/logo/tv/ee/express-news-pk.png" group-title="PAKISTAN | NEWS",PK | Express news
+#EXTINF:0.1tvg-id="Express.News.in" tvg-name="PK | Express news" tvg-logo="https://www.lyngsat.com/logo/tv/ee/express-news-pk.png" group-title="PAKISTAN | NEWS",PK | Express news
 http://tv.indigotv.me:80/live.ts?channelId=408&deviceMac=00:1A:79:00:04:31&uid=5954
 
 #EXTINF:0.1tvg-id="92news.pk" tvg-name="PK | 92 News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png" group-title="PAKISTAN | NEWS",PK | 92 News
@@ -81,7 +81,7 @@ http://tv.indigotv.me:80/live.ts?channelId=431&deviceMac=00:1A:79:00:04:31&uid=5
 #EXTINF:0.1tvg-id="" tvg-name="PK | Lahore Rung" tvg-logo="http://ujm.from-in.com/panel/imageicon/bfbd540.png" group-title="PAKISTAN | ENTERTAINMENT",PK | Lahore Rung
 http://tv.indigotv.me:80/live.ts?channelId=22753&deviceMac=00:1A:79:00:04:31&uid=5954
 
-#EXTINF:0.1tvg-id="" tvg-name="PK | PTV NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/PTV_Logo.png" group-title="PAKISTAN | NEWS",PK | PTV NEWS
+#EXTINF:0.1tvg-id="PTV.pk" tvg-name="PK | PTV NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/PTV_Logo.png" group-title="PAKISTAN | NEWS",PK | PTV NEWS
 http://tv.indigotv.me:80/live.ts?channelId=446&deviceMac=00:1A:79:00:04:31&uid=5954
 
 
