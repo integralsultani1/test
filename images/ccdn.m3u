@@ -177,11 +177,11 @@ http://tv.indigotv.me:80/live.ts?channelId=32496&deviceMac=00:1A:79:00:07:67&uid
 
 
 #EXTINF:0.1tvg-id="bbcworldnews.za" tvg-name="Af | DSTV: BBC World News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/BBC_News_%282008%29.svg/2560px-BBC_News_%282008%29.svg.png" group-title="DSTV | NEWS",Af | BBC News
-http://star4k.me//play/live.php?mac=00:1A:79:B1:51:BB&stream=1624582&extension=ts&play_token=I2SCCuR5y7
+http://star4k.me//play/live.php?mac=00:1A:79:7b:7f:68&stream=1624582&extension=ts&play_token=I2SCCuR5y7
 
 
 #EXTINF:0.1tvg-id="bbcworldnews.za" tvg-name="Af | DSTV: BBC World News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BBC_World_News_2022_%28Boxed%29.svg/2048px-BBC_World_News_2022_%28Boxed%29.svg.png" group-title="DSTV | NEWS",Af | BBC World News
-http://star4k.me//play/live.php?mac=00:1A:79:B1:51:BB&stream=162143&extension=ts&play_token=OHSI854M69
+http://star4k.me//play/live.php?mac=00:1A:79:7b:7f:68&stream=162143&extension=ts&play_token=OHSI854M69
 
 
 
@@ -191,21 +191,21 @@ https://live-hls-web-aje-gcp.thehlive.com/AJE/02.m3u8
 
 
 #EXTINF:0.1tvg-id="" tvg-name="IN: Al Jazeera" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/TRT_World_logosu.png" group-title="DSTV | NEWS", TRT World
-http://star4k.me//play/live.php?mac=00:1A:79:B1:51:BB&stream=162157&extension=ts&play_token=RAwe0AnryY
+http://star4k.me//play/live.php?mac=00:1A:79:7b:7f:68&stream=162157&extension=ts&play_token=RAwe0AnryY
 
 
 #EXTINF:0.1tvg-id="" tvg-name="Skynews" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbEcTC5pyFCmCwnGeRAsxAMr8bjIhTUZvAsgA3tsDtbPvLUxFKc-1H9xnfUmoAcVIudQ&usqp=CAU" group-title="DSTV | NEWS", Sky News
-http://star4k.me//play/live.php?mac=00:1A:79:B1:51:BB&stream=162155&extension=ts&play_token=5ccfew7GvY
+http://star4k.me//play/live.php?mac=00:1A:79:7b:7f:68&stream=162155&extension=ts&play_token=5ccfew7GvY
 
 
 
 #EXTINF:0.1tvg-id="dunyanews.pk" tvg-name="IN: Al Jazeera" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/aljazeera-uk.png" group-title="DSTV | NEWS", Af | Al Jazeera 1
-http://star4k.me//play/live.php?mac=00:1A:79:B1:51:BB&stream=499085&extension=ts&play_token=hLARwyWzTK
+http://star4k.me//play/live.php?mac=00:1A:79:7b:7f:68&stream=499085&extension=ts&play_token=hLARwyWzTK
 
 
 
 #EXTINF:0.1tvg-id="" tvg-name="CNN" tvg-logo="http://138.199.27.237:8080/PORTUGAL/CNN.png" group-title="DSTV | NEWS", CNN
-http://star4k.me//play/live.php?mac=00:1A:79:B1:51:BB&stream=324963&extension=ts&play_token=DBfDID5xxx
+http://star4k.me//play/live.php?mac=00:1A:79:7b:7f:68&stream=324963&extension=ts&play_token=DBfDID5xxx
 
 
 
@@ -483,7 +483,7 @@ http://tv.indigotv.me:80/live.ts?channelId=132254&deviceMac=00:1A:79:00:07:67&ui
 #EXTINF:0.1tvg-id="" tvg-name="PK | Geo Super HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Geo_Super_logo.png" group-title="CRICKET",PK | Geo Super HD
 http://tv.indigotv.me:80/live.ts?channelId=274&deviceMac=00:1A:79:00:07:67&uid=5954
 
-#EXTINF:0.1tvg-id="" tvg-name="PK: A Sports HD (Server 1)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0c/A_Sports_Logo.png" group-title="CRICKET",PK: A Sports HD 
+#EXTINF:0.1tvg-id="" tvg-name="PK: A Sports HD (Server 1)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0c/A_Sports_Logo.png" group-title="CRICKET",PK: A Sports HD
 http://tv.indigotv.me:80/live.ts?channelId=132249&deviceMac=00:1A:79:00:07:67&uid=5954
 
 #EXTINF:0.1tvg-id="" tvg-name="SuperSport Cricket" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/Astro_Cricket_%28Oct_2024%29.png" group-title="CRICKET",Astro Cricket
@@ -564,65 +564,3 @@ http://tv.indigotv.me:80/live.ts?channelId=4212&uid=5954&deviceMac=00:1A:79:00:0
 
 #EXTINF:0.1tvg-id="" tvg-name="Sony BBC Ear (4K)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/RnzI34c.png" group-title="INDIAN | 4K ULTRA HD",Sony BBC Ear (4K)
 http://tv.indigotv.me:80/live.ts?channelId=12366&uid5954&deviceMac=00:1A:79:00:07:67
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
